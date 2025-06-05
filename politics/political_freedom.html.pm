@@ -42,7 +42,7 @@ about them. Why should we guarantee a man's riches even as
 the poorest starve? Why should we guarantee his right to speak
 even as he lies and defames? Why should
 we guarantee his right to bear arms even as scores are
-cut down in the streets with brutish violence?
+killed in mass shootings?
 
 The answer is simple: the rights adopted by society reflect its
 current agreement on the tradeoffs between the freedom to act
@@ -147,7 +147,8 @@ in this way, a society that remains politically free tends to
 move inexorably towards tolerance and goodwill---◊em{so long as}
 each step is freely chosen, and generous rather than punitive.
 
-But even liberty cannot always be absolute.
+◊;{But even liberty cannot always be absolute.}
+But democracy is about more than just liberty.
 Protecting the
 general welfare forces us to recognize
 that individual actions can harm society ◊em{collectively},

@@ -26,7 +26,7 @@ jobs:
 
     - name: Build site with Pollen
       run: |
-	mkdir /tmp/pollen-publish
+        mkdir /tmp/pollen-publish
         raco pollen publish . /tmp/pollen-publish
 
     - name: Deploy to GitHub Pages

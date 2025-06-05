@@ -1,0 +1,36 @@
+name: Build and Deploy Pollen Site
+
+on:
+  push:
+    branches:
+      - main  # or your default branch
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Install Racket
+      uses: Bogdanp/setup-racket@v1.11
+      with:
+        architecture: x64
+        distribution: full
+        version: "8.12"
+
+    - name: Install Pollen
+      run: |
+        raco pkg install --auto pollen
+
+    - name: Build site with Pollen
+      run: |
+        raco pollen publish . output
+
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./output
+

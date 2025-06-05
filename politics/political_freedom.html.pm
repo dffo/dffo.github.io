@@ -34,7 +34,7 @@ their evolving standards of human decency.
 
 But laws themselves are born of the limits of our world.
 It is life's constraints that give meaning to crime: mortality permits
-violence, inequality permits theft,
+violence, scarcity permits theft,
 ignorance permits fraud. Laws are a necessary evil, limiting
 one's freedom to act  to protect another's dignity. Such guarantees
 are called ◊em{rights}, yet there is nothing intrinsically right

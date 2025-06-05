@@ -2,7 +2,7 @@
 ◊(define-meta doc-publish-date "2025-06-05")
 
 ◊(title "Why first-past-the-post is great"
-    "Solve disagreements with experimentation rather than endless negotiating.")
+    "It favours decisiveness where possible while forcing consensus where necessary.")
 ◊(print-date)
 
 ◊initial-cap{How should we choose a leader?} To a layman the question may seem obvious—◊em{vote for your favorite and pick whoever has the most votes}. Voting for a parliament or Congress is just as easy: divide the country into districts, and let each one elect the candidate with the most support.

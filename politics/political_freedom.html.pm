@@ -250,21 +250,23 @@ But it alone carries the means for redemption and reform:
 rich in knowledge, drawn from the people, refreshed
 over time through elections. That is the essence of political
 freedom: the power for a people to learn from the bitter
-experience of their own mistakes. Yes, uniting
-a society fractured by tongue and sect is hard. But the best
-solution for holding together such diversity is through
-◊em{more} democracy, by crafting federal systems that force
-states to compete with each other. Sovereignty is not limited,
+experience of their own mistakes. 
+
+Yes, uniting
+a society fractured by tongue and sect is hard. 
+When dignity is seen as tribal rather than human,
+the sublime faith that undergirds democracy falters.
+The resulting strife hurts minority and 
+majority alike.
+But the best
+solution for holding together such diversity is not through
+less democracy, but ◊em{more}: by crafting federal systems that force
+states to compete with each other while
+lowering the stakes of national control. Sovereignty is not limited,
 but redirected. The people can still choose, but they can also
 move---and such threats themselves can chasten.
-
-◊;{
-your ending should restate the definition of political freedom,
-then say:
-elections aren't enough for political freedom. What use is an
-elected Duma if its laws are vetoed by a Tsar? Or a President
-who must supplicate to a jurist---theocratic or secular?
-}
+Political freedom can then remain the guiding star, 
+instead of an inconvenience to be mortgaged.
 
 ◊sc{All human beings} are born with a dignity greater than the 
 entire universe. Yet for most of man's existence, that

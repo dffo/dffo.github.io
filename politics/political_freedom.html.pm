@@ -32,10 +32,10 @@ The laws that bind society are not static but mature with its people,
 who revise them over time in keeping with
 their evolving standards of human decency.
 
-But laws are only necessary because of the limits of our world.
-Our mortality makes us fear violence; our need
-makes us fear theft; our ignorance makes us fear deceit.
-Without these limits, man could act without restraint.
+But laws are only needed because of the limits of our world.
+Mortality makes us fear violence; scarcity makes us fear theft;
+uncertainty makes us fear fraud.
+Without these limitations, man could act without restraint.
 With them, his actions can harm others.
 Laws are thus a necessary evil, curbing one's
 freedom to act to protect another's dignity. Such guarantees

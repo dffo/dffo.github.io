@@ -32,11 +32,13 @@ The laws that bind society are not static but mature with its people,
 who revise them over time in keeping with
 their evolving standards of human decency.
 
-But laws themselves are born of the limits of our world.
-It is life's constraints that give meaning to crime: mortality, to
-violence; scarcity, to theft;
-ignorance, to fraud. Laws are a necessary evil, limiting
-one's freedom to act  to protect another's dignity. Such guarantees
+But laws are only necessary because of the limits of our world.
+Our mortality makes us fear violence; our need
+makes us fear theft; our ignorance makes us fear deceit.
+Without these limits, man could act without restraint.
+With them, his actions can harm others.
+Laws are thus a necessary evil, curbing one's
+freedom to act to protect another's dignity. Such guarantees
 are called ◊em{rights}, yet there is nothing intrinsically right
 about them. Why should we guarantee a man's riches even as
 the poorest starve? Why should we guarantee his right to speak

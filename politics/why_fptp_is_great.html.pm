@@ -132,7 +132,7 @@ We can see here the elegance of ◊acro{FPTP}—it results in a system that live
 ◊h2{When (not) to blame FPTP}
  
 
-Yes, ◊acro{FPTP} is not perfect. Malapportionment and gerrymandering are clear flaws, making it too easy for politicians to choose their voters by cleverly redrawing district boundaries. But many of the world's poorest democracies manage to run ◊acro{FPTP} elections without descending into chaos. Indeed, most of Africa's democracies use ◊acro{FPTP}, while many of its dictatorships notionally use ◊acro{PR}. That said, fights over apportionment can get messy---this is one issue that should be handled by an independent body.  
+Yes, ◊acro{FPTP} is not perfect. Malapportionment and gerrymandering are clear flaws, making it too easy for politicians to choose their voters by cleverly redrawing district boundaries. But many of the world's poorest democracies run ◊acro{FPTP} elections without succumbing to fights over redistricting. Indeed, most of Africa's democracies manage credible elections with ◊acro{FPTP}, while many of its dictatorships notionally use ◊acro{PR}. That said, fights over apportionment and district boundaries can get messy---these are issues that should be handled by an independent body.  
 
  
 

@@ -17,7 +17,7 @@ rights can exist in such a condition but that of the strong to bully the
 weak? In nature, anarchy is not a choice but a necessity: if you
 suspect that another tribe will attack your own, the only option
 is to bear arms and strike first. Power is a zero-sum game, and time is
-its currency.
+its currency. Tyranny is its tragic result.
 
 Freedom can only begin to breathe when every tribe agrees to yield its
 arms to a central government, an arbiter whose use of force is bound by rules

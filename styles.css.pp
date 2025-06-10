@@ -113,6 +113,8 @@ h1 {
     line-height: 3.8rem;
     hyphens:none;
     margin-bottom: 20px;
+    /*If using Cormorant*/
+    font-feature-settings: "ss02";
 }
 
 h1.bigtitle {
@@ -238,7 +240,7 @@ end-mark::after {
     /*content: "⁂";*/
     font-family: "Junicode";
     content: "";
-    font-size: 1.5rem;
+    font-size: 1.6rem;
 }
 
 .superheading {

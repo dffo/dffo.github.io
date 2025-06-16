@@ -171,16 +171,17 @@ p+p {
     top: 1em;
 }
 
-.prev-link, .next-link {
+a, .prev-link, .next-link, .toc-entry {
     /*text-decoration: none;*/
     text-decoration-thickness: 0.125rem;
     text-decoration-color: ◊link-underline-color;
+    color: black;
 }
 
-.toc-entry {
+/*a, .toc-entry {
     text-decoration-thickness: 0.125rem;
     text-decoration-color: ◊link-underline-color;
-}
+}*/
 
 a.toc-entry {
     /*text-transform: lowercase;

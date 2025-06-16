@@ -71,11 +71,16 @@
 (define (acro . elements)
     (define str (car elements))
     (define final-idx (sub1 (string-length str)))
+    (define pen-idx (sub1 final-idx))
     (define final-char (string-ref str final-idx))
-    (if (char=? final-char #\s)
+    (define pen-char (string-ref str pen-idx))
+    (define complex-plural? (char=? pen-char #\'))
+    (define simple-plural? (and (char=? final-char #\s) (not complex-plural?)))
+    (define split-point (if (char=? pen-char #\e) pen-idx final-idx))
+    (if simple-plural?
 	`(span
-	    (span ((class "acronym")) ,(substring (car elements) 0 final-idx))
-	    (span ((class "acronym-plural")) ,(string final-char)))
+	    (span ((class "acronym")) ,(substring str 0 split-point))
+	    (span ((class "acronym-plural")) ,(substring str split-point)))
 	`(span ((class "acronym")) ,@elements)))
 
 
@@ -90,7 +95,6 @@
 	(img ((src ,link) (alt ,alttext) (style ,(format "width: ~a" wpct))))))
 
 (provide title)
-;; TOOD: add this function ◊(titleblock #:bigtitle [yes/no] [title] [subtitle])
 (define (title maintitle [subtitle #f] #:big? [big? #f])
     (define title-attrs
 	(if big?

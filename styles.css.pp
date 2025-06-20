@@ -4,7 +4,8 @@
 ◊(define strong-red "#c9211e")
 ◊(define heading-weight "500")
 ◊(define text-size "1.1rem")
-◊(define note-size "1rem")
+◊(define note-size "0.85rem")
+◊(define aside-size "0.9rem")
 ◊(define title-font "Cormorant Garamond")
 ◊(define link-underline-color "#2a49a6")
 ◊(define sc-tracking-body "0.06rem")
@@ -253,11 +254,10 @@ end-mark::after {
 .sidenote {
         float: left;
     clear: left;
-    margin-left: -24%;
+    margin-left: -22%;
     width: 20%;
     margin-top: 0.3rem;
     margin-bottom: 0;
-    font-size: 1.1rem;
     line-height: 1.3;
     vertical-align: baseline;
     position: relative;
@@ -273,7 +273,7 @@ end-mark::after {
 	margin-left: 30%;
 	text-align: left;
 	width: revert;
-	font-style: italic;
+	font-size: ◊aside-size;
     }
     #content.shift-left {
 	margin-left: auto;
@@ -339,7 +339,7 @@ sup {
 }
 
 aside {
-    font-size: ◊note-size;
+    font-size: ◊aside-size;
     margin-left: 10%;
 }
 

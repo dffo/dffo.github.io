@@ -241,16 +241,15 @@ end-mark::after {
 .sidenote {
         float: left;
     clear: left;
-    margin-left: -24%;
+    margin-left: -22%;
     width: 20%;
     margin-top: 0.3rem;
     margin-bottom: 0;
-    font-size: 1.1rem;
     line-height: 1.3;
     vertical-align: baseline;
     position: relative;
         text-align: right;
-    font-size: 1rem;
+    font-size: 0.85rem;
     hyphens: auto;
 }
 
@@ -261,7 +260,7 @@ end-mark::after {
         margin-left: 30%;
         text-align: left;
         width: revert;
-        font-style: italic;
+        font-size: 0.9rem;
     }
     #content.shift-left {
         margin-left: auto;
@@ -290,7 +289,7 @@ end-mark::after {
 
 blockquote {
     margin-left: 10%;
-    font-size: 1rem;
+    font-size: 0.85rem;
 }
 
 drop-cap {
@@ -327,7 +326,7 @@ sup {
 }
 
 aside {
-    font-size: 1rem;
+    font-size: 0.9rem;
     margin-left: 10%;
 }
 

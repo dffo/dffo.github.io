@@ -382,3 +382,24 @@ img {
 .doc-date {
     margin-bottom: -10px;
 }
+
+q {
+   /* quotes: none;
+    font-style: italic;*/
+}
+
+content-warning::before {
+    content: "Content note: ";
+    /*color: ◊strong-red;*/
+    font-weight: bold;
+    font-style: normal;
+}
+
+content-warning {
+    font-style: italic;
+    font-size: 1rem;
+    margin-top: 20.9px;
+    margin-bottom: 20.9px;
+    display: block;
+    line-height: 1.45rem;
+}

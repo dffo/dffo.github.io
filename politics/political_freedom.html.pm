@@ -28,9 +28,8 @@ This faith is the first step, but it must be nourished over time by
 the fruits of a society that constrains power with rules. To conquer
 tyranny is therefore not to fight, but to surrender: to submit oneself
 to the ◊i{rule of law}.
-The laws that bind society are not static but mature with its people,
-who revise them over time in keeping with
-their evolving standards of human decency.
+The laws are the rules that bind a society,
+revised by the people as their values evolve.
 
 But laws are only needed because of the limits of our world.
 Mortality makes us fear violence; scarcity makes us fear theft;

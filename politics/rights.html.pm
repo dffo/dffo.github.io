@@ -580,14 +580,17 @@ The best approach is to try and understand the ◊i{domains}
 in which we should lean towards one class of right
 over the other. For example, the positive right to representation
 naturally matters more in government affairs, because the
-government is a kind of monopoly. Black Americans denied the vote
-via literacy tests had no other alternative. In comparison,
-most other domains have competition that allows for choice
-in the face of disparity. For example, it might be less
-important to ensure a given college is racially balanced
-when students have other choices. In such competitive domains,
+government is a kind of monopoly. People denied the vote
+via literacy tests had no other alternative. 
+But other domains are more competitive, offering choices
+that can offset disparity. 
+Even if your exam scores miss the cutoff to qualify for a given
+college,
+you can usually find another that will accept you instead.
+In such areas,
 ensuring procedural neutrality
-may be more important than trying to engineer demographic outcomes.
+may be more important than trying to ensure positive representation by
+engineering demographic outcomes.
 
 Another lesson is that ◊i{right} is not a magic word
 that automatically entitles you to the world.

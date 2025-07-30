@@ -15,7 +15,7 @@
 
 </div>
 
-<div class="home top"><a class="home-link" href="index.html">Home</a></div>
+<div class="home top"><a class="home-link" href="/index.html">Home</a></div>
 ◊(define prev (previous here))
 ◊(define prev-page (if (equal? prev 'index.html) #f prev))
 ◊when/splice[prev-page]{
@@ -26,7 +26,7 @@
 
 
 
-<div class="home bottom"><a class="home-link" href="index.html">Home</a></div>
+<div class="home bottom"><a class="home-link" href="/index.html">Home</a></div>
 ◊when/splice[prev-page]{
 <div class="prev">← <a class="prev-link" href="/◊|prev-page|">◊(select 'h1 prev-page)</a></div>}
 ◊when/splice[next-page]{

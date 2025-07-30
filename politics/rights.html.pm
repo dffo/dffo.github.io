@@ -54,7 +54,7 @@ for a world free of want. It is both humble and bold; it
 meditates and screams. It is in that sense not the cause of confusion, but a
 reflection of our own: the tension of utopian dreams
 tempered by hard reality. 
-Though painful, cutting through the fog and exploring
+Though it may be painful, cutting through the fog and understanding
 where rights go wrong may be the only way
 to give those dreams a chance.
 

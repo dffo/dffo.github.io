@@ -90,7 +90,7 @@ body {
     font-size: ◊text-size;
     padding: 0 3px;
     margin: auto;
-    margin-top: 80px;
+    margin-top: 100px;
     /*margin-left: 20%;*/
     font-family: ◊main-font;
     line-height: 1.5;
@@ -159,20 +159,25 @@ p+p {
     /*text-indent: 1.6em;*/
 }
 
-.prev, .next {
+.prev, .next, .home {
     position: absolute;
     color: black;
     font-style: italic;
     /*font-variant: small-caps;
     text-transform: lowercase;*/
     text-decoration: none;
+    font-family: sans;
+}
+
+.prev-link, .next-link, .home-link {
+    text-decoration-thickness: 0.1rem;
 }
 
 .top {
     top: 1em;
 }
 
-a, .prev-link, .next-link, .toc-entry {
+a, .toc-entry {
     /*text-decoration: none;*/
     text-decoration-thickness: 0.125rem;
     text-decoration-color: ◊link-underline-color;
@@ -196,11 +201,16 @@ a.toc-entry {
 ◊(define edge-space "1em")
 
 .prev {
-    left: ◊edge-space;
+    right: ◊edge-space;
 }
  
 .next {
     right: ◊edge-space;
+    margin-top: 1.5rem;
+}
+
+.home {
+    left: ◊edge-space;
 }
 
 a:visited {
@@ -285,14 +295,6 @@ end-mark::after {
     
 }
 
-
-@media only screen and (max-width: 625px) {
-    .next {
-	margin-top: 1.5rem;
-	right: revert;
-	left: ◊edge-space;
-    }
-}
 
 @media only screen and (min-width: 825px) {
     figure {

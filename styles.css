@@ -77,7 +77,7 @@ body {
     font-size: 1.1rem;
     padding: 0 3px;
     margin: auto;
-    margin-top: 80px;
+    margin-top: 100px;
     /*margin-left: 20%;*/
     font-family: Castoro;
     line-height: 1.5;
@@ -146,20 +146,25 @@ p+p {
     /*text-indent: 1.6em;*/
 }
 
-.prev, .next {
+.prev, .next, .home {
     position: absolute;
     color: black;
     font-style: italic;
     /*font-variant: small-caps;
     text-transform: lowercase;*/
     text-decoration: none;
+    font-family: sans;
+}
+
+.prev-link, .next-link, .home-link {
+    text-decoration-thickness: 0.1rem;
 }
 
 .top {
     top: 1em;
 }
 
-a, .prev-link, .next-link, .toc-entry {
+a, .toc-entry {
     /*text-decoration: none;*/
     text-decoration-thickness: 0.125rem;
     text-decoration-color: #2a49a6;
@@ -183,11 +188,16 @@ a.toc-entry {
 
 
 .prev {
-    left: 1em;
+    right: 1em;
 }
 
 .next {
     right: 1em;
+    margin-top: 1.5rem;
+}
+
+.home {
+    left: 1em;
 }
 
 a:visited {
@@ -272,14 +282,6 @@ end-mark::after {
 
 }
 
-
-@media only screen and (max-width: 625px) {
-    .next {
-        margin-top: 1.5rem;
-        right: revert;
-        left: 1em;
-    }
-}
 
 @media only screen and (min-width: 825px) {
     figure {

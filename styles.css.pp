@@ -295,11 +295,29 @@ end-mark::after {
     
 }
 
+@media only screen and (max-width: 625px) {
+    #content {
+	margin-top: 140px;
+    }
+    .prev {
+        left: ◊edge-space;
+        margin-top: 1.5rem;
+    }
+     
+    .next {
+        left: ◊edge-space;
+        margin-top: 3rem;
+    }
+}
 
 @media only screen and (min-width: 825px) {
     figure {
 	margin-inline: 60px !important;
     }
+}
+
+#content.toc-page-content {
+        margin-top: 80px;
 }
 
 blockquote {

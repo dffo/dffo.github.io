@@ -8,7 +8,7 @@
 <link rel="stylesheet" type="text/css" media="all" href="styles.css" />
 </head>
 <body>
-<div id="content">
+<div id="content" class="toc-page-content">
 ◊(->html doc #:splice? #t)
 ◊(define other-pages (other-siblings 'index.html))
 ◊when[other-pages]{

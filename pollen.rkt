@@ -5,6 +5,12 @@
 (require racket/date)
 (require pollen/tag)
 (require (only-in srfi/19 string->date))
+
+(module setup racket/base
+  (provide (all-defined-out))
+  (require pollen/setup)
+  (define block-tags (cons 'content-warning 'block-note default-block-tags)))
+
 (provide root)
 (define (root . elements)
     (txexpr 'root empty 
@@ -84,11 +90,7 @@
 	`(span ((class "acronym")) ,@elements)))
 
 
-;; TODO: add a command to allow for image placement outside of <p></p>
-;; should do automatic centering/sizing and alt text
-;;(provide image)
-;;(define (image . elements)
-;;    )
+;; TODO: add caption support to the image function
 (provide image)
 (define (image #:src link #:alt alttext #:width [wpct "100%"])
     `(figure 
@@ -110,3 +112,10 @@
 	    `((div ((class ,subtitle-classes)) ,subtitle))
 	    '())))
 	
+(provide toc-link)
+(define (toc-link id)
+  `(a ((href ,(string-append "#" id))
+    (class "back-to-toc")
+    (aria-label "Back to table of contents"))
+    "↑"))
+

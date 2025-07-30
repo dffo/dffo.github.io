@@ -5,6 +5,11 @@
     "Electoral theory and the philosophy of voting")
 ◊(print-date)
 
+◊block-note{
+This essay is a follow-up to a ◊a[#:href "why_fptp_is_great.html"]{previous work} in which I
+defend ◊i{first-past-the-post} as an electoral system.
+}
+
 ◊initial-cap{One of the} most common criticisms of ◊i{first-past-the-post} (◊acro{FPTP}) in legislative elections is that it is unrepresentative because of ◊i{wasted votes}. In the United States, for example, voters in deeply conservative or progressive districts often feel that their votes don't really matter, since the district's result was never in question. If a district is already solidly Republican, it can feel like every further Republican vote above fifty percent is pointless. Conversely, a Democratic voter in such a conservative district might not even show up to vote, since there's virtually no chance that his vote will swing the final result. The critics cast this not as some quirk of American politics, but a fundamental flaw of ◊acro{FPTP} elections that makes ◊i{proportional representation} (◊acro{PR}) superior.
 
 ◊sidenote{The term ◊em{wasted votes} can refer to both ◊i{disproportionality} (which calls for ◊acro{PR}) and ◊i{vote-splitting} (which calls for ◊i{ranked-choice voting}). This essay focuses on the former.}

@@ -53,19 +53,34 @@ culture, or tribe. It protects the sanctity of process while also calling
 for a world free of want. It is both humble and bold; it
 meditates and screams. It is in that sense not the cause of confusion, but a
 reflection of our own: the tension of utopian dreams
-tempered by hard reality. Cutting through the confusion may be painful,
-but understanding the moral limits of rights and how they conflict
-may be the only way to give that dream a chance.
+tempered by hard reality. 
+Though painful, cutting through the fog and exploring
+where rights go wrong may be the only way
+to give those dreams a chance.
 
-◊h2{Positive and negative rights}
+◊span[#:id "content-toc"]{Contents:}
+To better understand how ◊i{rights} work and where they fail,
+I've created a taxonomy that categorizes a given right in three
+different ways:
+    ◊a[#:href "#positive-negative"]{◊i{positive vs negative}},
+    ◊a[#:href "#individual-collective"]{◊i{individual vs collective}}, and
+    ◊a[#:href "#institutional-metaphysical"]{◊i{institutional vs metaphysical}}.
+I discuss the virtues
+and limits of each kind, before ending with a more general
+◊a[#:href "#conclusions"]{analysis and conclusions}.
 
-Perhaps nothing bears the mark of this tension 
+◊h2[#:id "positive-negative"]{Positive and negative rights
+◊(toc-link "content-toc")
+}
+
+Perhaps nothing bears the mark of the tension 
 between idealism and constraint as clearly as the
-duelling concepts of ◊i{positive} and ◊i{negative} rights. Both
-are ultimately legal tools, not cosmic entreaties. 
+duelling concepts of ◊i{positive} and ◊i{negative} rights. Both kinds
+of rights
+are legal tools, not cosmic entreaties. 
 Both are enforced against a government.
-But claiming a negative right tends to yield a guarantee
-of ◊em{process}, while a positive right instead yields an
+But negative rights tend to yield a guarantee
+of ◊em{process}, while a positive right instead yield an
 entitlement to a certain ◊em{result}, often at the government's
 (or taxpayer's) expense. America's First Amendment
 is a negative right: it guarantees your freedom to speak without
@@ -78,7 +93,7 @@ over the past century. Many countries have added to their founding
 documents guarantees of ◊i{social rights} such as the right to housing,
 the right to healthcare, and the right to education. 
 Traditionally understood, countries like
-the United States already have an implicit ◊em{negative} right to those things: 
+the United States already have an implicit ◊em{negative} right to these things: 
 its citizens are free to purchase whatever healthcare
 or housing they wish given the resources they have. 
 The difference is that social rights are ◊em{positive} rights. They therefore
@@ -100,21 +115,23 @@ means that the government must police what others are allowed to remember.
 The negative right that loses the most from such guarantees tends to be
 that of ◊i{property rights}. After all, social rights must be funded with 
 taxes. 
-Yet many radicals take issue with the idea that property rights are a negative right at all.
-Why should we treat property rights as a neutral guarantee of process,
-rather than as locking in the unjust ◊i{results} of centuries of oppression?
+Yet many critics on the left take issue with the idea that 
+property rights are a negative right at all.
+Why treat property rights as a neutral guarantee of process
+when it yokes us to the unjust ◊i{results} of centuries of oppression?
 Marx famously described ◊i{capital} (physical assets used in industry) as really
 being the crystallized form of generations of workers' labour. In this view,
 the distribution of wealth must be treated as a result with moral content.
 
 Yet despite the moving appeal to history, the fact remains that
-property rights are inherently about process. Counterintuitively, property rights
-are less about ◊i{ownership} than about creating ◊em{zones
+property rights are inherently about process. 
+Property rights are themselves less about ◊i{ownership} 
+than about creating ◊em{zones
 of access} in which people can focus on cultivating
 what they have to bear fruit, without worrying about having it taken
 away or meddled with. 
 Protecting this process of cultivation from interference
-has always been the classical liberals' greatest priority.
+has always been classical liberals' greatest priority.
 Though they admit that a given ◊em{distribution} of
 property is more luck than merit, they
 argue that protecting people's access to what they have over time
@@ -171,7 +188,9 @@ on its own merits, in the context of individual and societal tradeoffs.
 Both positive and negative rights matter, but in a balance that must
 be discovered rather than dictated---a process of learning, not lecturing.
 
-◊h2{Individual and collective rights}
+◊h2[#:id "individual-collective"]{Individual and collective rights
+◊(toc-link "content-toc")
+}
 
 There is perhaps no greater litmus test of one's political philosophy
 than the place of the ◊i{collective} in society as opposed to the
@@ -297,8 +316,8 @@ of a child who could give no consent.
 No faith group can force parents to circumcise their child if they
 refuse.
 But what if they want to? Do they not have the right to induct their child
-into their venerable customs and communities?
-Which customs, if any, go too far?
+into their customs and communities?
+Do any customs go too far in risking the child's welfare?
 
 All these examples have been about ◊i{national minorities}: groups
 that pass down their membership through time, whether genetically
@@ -346,7 +365,7 @@ ends are self-destructive, and that children cannot give consent at all.
 But who should make that
 judgment? Is it the entreaties of experts that force our hand,
 or is it society's deeper moral instincts that recognize when
-human dignity is at stake? Though the collective claim here
+human welfare is at stake? Though the collective claim here
 is structurally similar to the cochlear implants debate,
 most people can intuitively distinguish cultural preservation
 from pathological harm. Yet that intuition, though essential,
@@ -366,7 +385,9 @@ and negative rights, both individual
 and collective rights matter, but in a balance that cannot be prejudged.
 
 
-◊h2{Institutional and metaphysical rights}
+◊h2[#:id "institutional-metaphysical"]{Institutional and metaphysical rights
+◊(toc-link "content-toc")
+}
 
 
 Thus far our discussion has mainly concerned ◊i{institutional rights},
@@ -458,12 +479,14 @@ onto the person responsible.
 Thus murder and theft are not just immoral, but
 collectively harmful to the rule of law.
 
-But judges cannot directly rule from metaphysical abstraction.
+Despite the moral roots of law,
+judges cannot directly rule from metaphysical abstraction.
 Such metaphysical rights must first be ◊i{transformed} into
 institutional ones (law or precedent) 
-to become judicially enforceable.
-This transformation must be heavily constrained by
-pragmatic considerations. First, it can only extend
+to become judicially enforceable, a
+process that must be constrained
+by pragmatism.
+First, it can only extend
 as far as our ability to enforce it, lest it
 degrade into empty preening---this was the great error
 of alcohol prohibition. Second, it must seek to preserve
@@ -475,7 +498,7 @@ and so the limits of a right are just as important as the right itself.
 Finally, the transformation can only extend as far as the
 democratic nature of the institution enshrining the right into law.
 Domestic courts must therefore be more cautious than the legislature
-when creating new legal precedent: for example, it would be perilous
+when creating new legal precedent. For example, it would be perilous
 for a court to unilaterally outlaw circumcision, given the delicate tradeoffs
 and social controversy it would involve.
 A legislature can act more boldly, constrained only by any bill of rights
@@ -561,7 +584,9 @@ But we must not confuse them with institutional rights.
 They are not the domain of a lawyer, but of all human beings.
 It is they who must decide.
 
-◊h2{The lessons}
+◊h2[#:id "conclusions"]{The lessons
+◊(toc-link "content-toc")
+}
 
 The most important lesson is that one cannot simply
 dismiss any one class of rights preemptively.
@@ -599,7 +624,7 @@ previously, eugenics is technically a collective right.
 In ◊i{Buck v. Bell}, America's Supreme Court
 endorsed it as being akin to vaccine mandates,
 which are also born of collective rights. Yet experience
-has shown that the latter is more defensible than the former.
+has shown the latter to be more defensible than the former.
 This shows that a right's worth must be argued rather than assumed;
 simply asserting a ◊i{right} does not change things.
 Not all collective groups can
@@ -626,10 +651,12 @@ practical tradeoffs.
 In that sense, the main lesson from this inquiry is the
 need for clarity. It is too easy for vague words to 
 smother important debates, and no word is more
-difficult to use lucidly than ◊i{right}. In today's divided
-politics, people too often reach for such words as cudgels,
-forsaking their power to clarify and focus minds for their
-power to wound and divide. 
+difficult to use lucidly than ◊i{right}. 
+In today's divided politics, people too often use
+◊i{rights} to shut down democratic
+debate, casting
+dissent as immoral while avoiding any deeper reckoning
+with their limitations and competing concerns.
 Such rhetoric might be good for winning debates. 
 But if it threatens
 the cause of human dignity for all, it 

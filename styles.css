@@ -375,6 +375,10 @@ q {
     font-style: italic;*/
 }
 
+#content-toc {
+    font-weight: 700;
+}
+
 content-warning::before {
     content: "Content note: ";
     /*color: #c9211e;*/
@@ -382,11 +386,16 @@ content-warning::before {
     font-style: normal;
 }
 
-content-warning {
+content-warning, block-note {
     font-style: italic;
     font-size: 1rem;
     margin-top: 20.9px;
     margin-bottom: 20.9px;
     display: block;
     line-height: 1.45rem;
+}
+
+.back-to-toc {
+    /*text-decoration: none;*/
+
 }

@@ -80,7 +80,7 @@ of rights
 are legal tools, not cosmic entreaties. 
 Both are enforced against a government.
 But negative rights tend to yield a guarantee
-of ◊em{process}, while a positive right instead yield an
+of ◊em{process}, while positive rights instead yield an
 entitlement to a certain ◊em{result}, often at the government's
 (or taxpayer's) expense. America's First Amendment
 is a negative right: it guarantees your freedom to speak without

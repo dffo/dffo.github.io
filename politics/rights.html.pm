@@ -317,7 +317,7 @@ No faith group can force parents to circumcise their child if they
 refuse.
 But what if they want to? Do they not have the right to induct their child
 into their customs and communities?
-Do any customs go too far in risking the child's welfare?
+And do any customs go too far in risking the child's welfare?
 
 All these examples have been about ◊i{national minorities}: groups
 that pass down their membership through time, whether genetically
@@ -484,9 +484,8 @@ judges cannot directly rule from metaphysical abstraction.
 Such metaphysical rights must first be ◊i{transformed} into
 institutional ones (law or precedent) 
 to become judicially enforceable, a
-process that must be constrained
-by pragmatism.
-First, it can only extend
+process that is subject to pragmatic constraints.
+First, the process can only extend
 as far as our ability to enforce it, lest it
 degrade into empty preening---this was the great error
 of alcohol prohibition. Second, it must seek to preserve
@@ -498,11 +497,11 @@ and so the limits of a right are just as important as the right itself.
 Finally, the transformation can only extend as far as the
 democratic nature of the institution enshrining the right into law.
 Domestic courts must therefore be more cautious than the legislature
-when creating new legal precedent. For example, it would be perilous
-for a court to unilaterally outlaw circumcision, given the delicate tradeoffs
-and social controversy it would involve.
-A legislature can act more boldly, constrained only by any bill of rights
-in their founding charter. International institutions must be most
+when creating new legal precedent. For example, it would be fraught
+for a court to unilaterally outlaw circumcision, given concerns
+around religious freedom. It would need popular consent.
+A legislature can act more boldly, subject only to any bill of rights
+in its founding charter. International institutions must be most
 cautious of all, for they live very far from the voter.
 Such caution is vital because
 institutional rights that
@@ -513,7 +512,7 @@ This makes the traditional distinction between institutional
 and metaphysical rights crucial. It is dangerous to conflate the two by assuming
 that metaphysical rights bind other people without first being transformed
 into law
-through compromise and restraint. Edmund Burke understood
+through compromise and constraint. Edmund Burke understood
 this when he wrote in 1790: 
 ◊q{Government is not made in virtue of natural rights, which may and do exist in total independence of it, and exist in much greater clearness and in a much greater degree of abstract perfection; but their abstract perfection is their practical defect.}
 It is a measure of our post-Enlightenment confusion that his
@@ -646,7 +645,7 @@ how their preferred policies concretely benefit others,
 instead of simply declaring them a ◊i{right}---as if
 that made them self-evidently good.
 It thus shifts the debate from abstraction to
-practical concerns.
+practical considerations.
 
 In that sense, the main lesson from this inquiry is the
 need for clarity. It is too easy for vague words to 
@@ -656,7 +655,7 @@ In today's divided politics, people too often use
 ◊i{rights} to shut down democratic
 debate, casting
 dissent as immoral while hushing any
-questions about tradeoffs or competing claims.
+concerns about tradeoffs or competing claims.
 Such rhetoric might be good for winning debates. 
 But if it threatens
 the cause of human dignity for all, it 

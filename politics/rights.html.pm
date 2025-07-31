@@ -58,13 +58,13 @@ Though it may be painful, cutting through the fog and understanding
 where rights go wrong may be the only way
 to give those dreams a chance.
 
-◊span[#:id "content-toc"]{Contents:}
+◊span[#:id "content-toc"]{Contents.}
 To better understand how ◊i{rights} work and where they fail,
 I've created a taxonomy that categorizes a given right in three
 different ways:
     ◊a[#:href "#positive-negative"]{◊i{positive vs negative}},
     ◊a[#:href "#individual-collective"]{◊i{individual vs collective}}, and
-    ◊a[#:href "#institutional-metaphysical"]{◊i{institutional vs metaphysical}}.
+    ◊a[#:href "#institutional-mphysical"]{◊i{institutional vs metaphysical}}.
 I discuss the virtues
 and limits of each kind, before ending with a more general
 ◊a[#:href "#conclusions"]{analysis and conclusions}.
@@ -385,7 +385,7 @@ and negative rights, both individual
 and collective rights matter, but in a balance that cannot be prejudged.
 
 
-◊h2[#:id "institutional-metaphysical"]{Institutional and metaphysical rights
+◊h2[#:id "institutional-mphysical"]{Institutional and metaphysical rights
 ◊(toc-link "content-toc")
 }
 
@@ -521,7 +521,7 @@ words may seem a contradiction in terms: ◊i{how can rights exist
 yet not be binding on government?} It is because
 they are only metaphysical ideals.
 
-The limits of institutional rights become clearest in
+The challenges of creating institutional rights are clearest in
 the global realm.
  Because there is no supreme
 power to enforce international law,
@@ -621,8 +621,8 @@ Another lesson is that ◊i{right} is not a magic word
 that automatically entitles you to the world.
 Some ◊q{rights} are in fact worthless---as noted
 previously, eugenics is technically a collective right.
-In ◊i{Buck v. Bell}, America's Supreme Court
-endorsed it as being akin to vaccine mandates,
+In ◊i{Buck v. Bell}, America's Supreme Court infamously
+endorsed eugenics as being akin to vaccine mandates,
 which are also born of collective rights. Yet experience
 has shown the latter to be more defensible than the former.
 This shows that a right's worth must be argued rather than assumed;
@@ -645,8 +645,8 @@ people to show
 how their preferred policies concretely benefit others,
 instead of simply declaring them a ◊i{right}---as if
 that made them self-evidently good.
-This can then help shift the debate from abstraction to
-practical tradeoffs.
+It thus shifts the debate from abstraction to
+practical concerns.
 
 In that sense, the main lesson from this inquiry is the
 need for clarity. It is too easy for vague words to 
@@ -655,8 +655,8 @@ difficult to use lucidly than ◊i{right}.
 In today's divided politics, people too often use
 ◊i{rights} to shut down democratic
 debate, casting
-dissent as immoral while avoiding any deeper reckoning
-with their limitations and competing concerns.
+dissent as immoral while hushing any
+questions about tradeoffs or competing claims.
 Such rhetoric might be good for winning debates. 
 But if it threatens
 the cause of human dignity for all, it 

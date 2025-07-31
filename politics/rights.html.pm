@@ -112,8 +112,8 @@ free from hate speech means that the government must restrict what
 others are allowed to say. The right to be forgotten
 means that the government must police what others are allowed to remember.
 
-The negative right that loses the most from such guarantees tends to be
-that of ◊i{property rights}. After all, social rights must be funded with 
+The negative right that loses the most from positive guarantees tends to be
+◊i{property rights}. After all, social rights must be funded with 
 taxes. 
 Yet many critics on the left take issue with the idea that 
 property rights are a negative right at all.

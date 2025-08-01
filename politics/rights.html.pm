@@ -105,8 +105,8 @@ We can see the tension between positive and negative rights. One often
 precludes the other: many countries with public healthcare limit the
 role of private doctors. 
 Public schooling often comes at the expense of private schools:
-parents usually have to pay taxes to fund the public system even
-if they had opted out, implicitly penalizing their free choice.
+parents who pay for private schools still have to fund the
+public system via taxes, implicitly penalizing their free choice.
 The right to be
 free from hate speech means that the government must restrict what
 others are allowed to say. The right to be forgotten
@@ -115,8 +115,8 @@ means that the government must police what others are allowed to remember.
 The negative right that loses the most from positive guarantees tends to be
 ◊i{property rights}. After all, social rights must be funded with 
 taxes. 
-Yet many critics on the left take issue with the idea that 
-property rights are a negative right at all.
+Yet many critics on the left dispute that 
+property rights should even be considered a negative right at all.
 Why treat property rights as a neutral guarantee of process
 when it yokes us to the unjust ◊i{results} of centuries of oppression?
 Marx famously described ◊i{capital} (physical assets used in industry) as really
@@ -485,21 +485,21 @@ Such metaphysical rights must first be ◊i{transformed} into
 institutional ones (law or precedent) 
 to become judicially enforceable, a
 process that is subject to pragmatic constraints.
-First, the process can only extend
-as far as our ability to enforce it, lest it
+First, the process cannot create laws
+that are impossible to enforce, lest it
 degrade into empty preening---this was the great error
-of alcohol prohibition. Second, it must seek to preserve
-continuity to avoid destabilizing society. Third,
-it must reckon fairly with the tradeoffs between competing
-claims---as noted previously, every right conflicts with another,
-and so the limits of a right are just as important as the right itself.
+of alcohol prohibition. Second, it must try to preserve
+continuity to minimize social upheaval. Third,
+it must reckon with the tradeoffs between competing
+claims. As noted previously, every right conflicts with another,
+and so the limits of a right can be more important than the right itself.
 
 Finally, the transformation can only extend as far as the
 democratic nature of the institution enshrining the right into law.
 Domestic courts must therefore be more cautious than the legislature
 when creating new legal precedent. For example, it would be fraught
-for a court to unilaterally outlaw circumcision, given concerns
-around religious freedom. It would need popular consent.
+for a court to unilaterally outlaw circumcision. Given the concerns
+around religious freedom, it would need popular consent.
 A legislature can act more boldly, subject only to any bill of rights
 in its founding charter. International institutions must be most
 cautious of all, for they live very far from the voter.

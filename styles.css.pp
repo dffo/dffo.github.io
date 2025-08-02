@@ -108,7 +108,7 @@ h1 {
     color: var(--strong-red);
     font-family: ◊title-font;
     font-weight: 400;
-    font-size: 3.3rem;
+    font-size: 63px;
     margin-top: 5px;
     text-align: left;
     line-height: 3.8rem;

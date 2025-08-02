@@ -308,6 +308,9 @@ end-mark::after {
         left: ◊edge-space;
         margin-top: 1.5rem;
     }
+    html {
+	font-size: 17px;
+    }
 }
 
 @media only screen and (min-width: 825px) {

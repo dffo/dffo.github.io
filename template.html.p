@@ -19,18 +19,18 @@
 ◊(define prev (previous here))
 ◊(define prev-page (if (equal? prev 'index.html) #f prev))
 ◊when/splice[prev-page]{
-<div class="prev top">← <a class="prev-link" href="/◊|prev-page|">◊(select 'h1 prev-page)</a></div>}
+<div class="prev top"><a class="prev-link" href="/◊|prev-page|">◊(select 'h1 prev-page)</a> →</div>}
 ◊(define next-page (next here))
 ◊when/splice[next-page]{
-<div class="next top"><a class="next-link" href="/◊|next-page|">◊(select 'h1 next-page)</a> →</div>}
+<div class="next top">← <a class="next-link" href="/◊|next-page|">◊(select 'h1 next-page)</a></div>}
 
 
 
 <div class="home bottom"><a class="home-link" href="/index.html">Home</a></div>
 ◊when/splice[prev-page]{
-<div class="prev">← <a class="prev-link" href="/◊|prev-page|">◊(select 'h1 prev-page)</a></div>}
+<div class="prev"><a class="prev-link" href="/◊|prev-page|">◊(select 'h1 prev-page)</a> →</div>}
 ◊when/splice[next-page]{
-<div class="next"><a class="next-link" href="/◊|next-page|">◊(select 'h1 next-page)</a> →</div>}
+<div class="next">← <a class="next-link" href="/◊|next-page|">◊(select 'h1 next-page)</a></div>}
 
 
 

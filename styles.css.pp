@@ -202,11 +202,11 @@ a.toc-entry {
 
 .prev {
     right: ◊edge-space;
-    margin-top: 1.5rem;
 }
  
 .next {
     right: ◊edge-space;
+    margin-top: 1.5rem;
 }
 
 .home {
@@ -301,12 +301,12 @@ end-mark::after {
     }
     .prev {
         left: ◊edge-space;
-        margin-top: 3rem;
+        margin-top: 1.5rem;
     }
      
     .next {
         left: ◊edge-space;
-        margin-top: 1.5rem;
+        margin-top: 3rem;
     }
     html {
 	font-size: 17px;

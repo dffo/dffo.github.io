@@ -103,9 +103,9 @@
                #:caption [caption #f])
   `(figure
      ,@(if caption
-           `((img ((src ,link) (alt ,alttext) (style ,(format "width: ~a" wpct))))
+           `((img ((src ,link) (alt ,alttext) ))
              (figcaption ,caption))
-           `((img ((src ,link) (alt ,alttext) (style ,(format "width: ~a" wpct))))))))
+           `((img ((src ,link) (alt ,alttext) ))))))
 
 (provide title)
 (define (title maintitle [subtitle #f] #:big? [big? #f])

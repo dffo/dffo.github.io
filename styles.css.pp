@@ -311,9 +311,21 @@ end-mark::after {
     html {
 	font-size: 17px;
     }
+    img {
+	width: 100%; !important;
+    }
+    figure {
+	margin-inline: 15px !important;
+    }
 }
 
-@media only screen and (min-width: 825px) {
+/*@media only screen and (min-width: 825px) {*/
+/*}*/
+
+@media only screen and (min-width: 625px) {
+    img {
+	width: 70%;
+    }
     figure {
 	margin-inline: 60px !important;
     }

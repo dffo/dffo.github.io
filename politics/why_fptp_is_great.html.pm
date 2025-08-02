@@ -33,12 +33,10 @@ Let us first consider an election of a single official (e.g. a President). How s
 
 One solution is to add a ◊em{runoff election}: have the two candidates with the most votes compete head-to-head in another election. The winner of this election will by definition win a majority of the voters, yielding the democratic legitimacy that many crave. For example, if the candidate who won forty percent of the vote was a conservative, and his two rivals were on the left, a runoff election would force him to compete with the most popular of the left-wing candidates—a fight that he would likely lose. This is indeed how many countries elect their presidents; its appeal is that it prevents ◊em{wasted votes} for runner-up candidates. 
 
-◊image[
-#:src "fptp_elect_2.svg"
+◊image[#:src "fptp_elect_2.svg"
 #:alt "In a runoff election, the combined forces of Labour and the Liberals can win."
 #:width "60%"
-#:caption "In a runoff election, the combined forces of Labour and the Liberals can win."
-]
+#:caption "In a runoff election, the combined forces of Labour and the Liberals can win."]
  
 
 But even this system is not good enough for the critics. The Marquis de Condorcet, one of the Enlightenment's pioneering social theorists, criticized such systems for rejecting candidates who might have had the most support among the population as a whole. For example, a centrist candidate might get eliminated in the first round if he won fewer votes than his left- and right-wing rivals. The second round would  then be a battle of the far right and left, even if the centrist candidate would have won in a head-to-head race against either extreme. This is called a ◊em{centre squeeze}, where a potential consensus pick is discarded for one of two radicals. The two-round system is often shunned by scholars for this exact reason.

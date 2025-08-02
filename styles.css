@@ -95,7 +95,7 @@ h1 {
     color: var(--strong-red);
     font-family: Cormorant Garamond;
     font-weight: 400;
-    font-size: 3.3rem;
+    font-size: 63px;
     margin-top: 5px;
     text-align: left;
     line-height: 3.8rem;
@@ -189,11 +189,11 @@ a.toc-entry {
 
 .prev {
     right: 1em;
-    margin-top: 1.5rem;
 }
 
 .next {
     right: 1em;
+    margin-top: 1.5rem;
 }
 
 .home {
@@ -288,12 +288,12 @@ end-mark::after {
     }
     .prev {
         left: 1em;
-        margin-top: 3rem;
+        margin-top: 1.5rem;
     }
 
     .next {
         left: 1em;
-        margin-top: 1.5rem;
+        margin-top: 3rem;
     }
     html {
         font-size: 17px;

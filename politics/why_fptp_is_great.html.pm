@@ -11,7 +11,7 @@ Yet what seems at first a simple answer has been at the centre of a centuries-lo
 
  
 
-Scholars of voting systems, known as ◊i{social choice theorists}, instead push alternatives like ◊em{proportional representation} (◊acro{PR}), where a party's percentage of seats in parliament is based directly on their share of the votes. Its advocates claim it to be a fairer, more democratic system, one that soothes the passions of polarization while encouraging moderate compromise. Defenders of the old system often make only a half-hearted case for it, conceding its crudeness while insisting that it ◊em{tends to work}. The past two centuries have accordingly seen a slow death of ◊acro{FPTP} in favour of ◊acro{PR}, as countries embrace modernity by casting off what seems to be a creaky, medieval relic.
+Scholars of voting systems, known as ◊i{social choice theorists}, instead push alternatives like ◊em{proportional representation} (◊acro{PR}), where a party's percentage of seats in parliament is based directly on their share of the votes. Its advocates claim it to be a fairer, more democratic system, one that soothes the passions of polarization while encouraging moderate compromise. Defenders of the old system often defend it half-heartedly, conceding its crudeness while insisting that it ◊em{tends to work}. The past two centuries have accordingly seen a slow death of ◊acro{FPTP} in favour of ◊acro{PR}, as countries embrace modernity by casting off what seems to be a creaky, medieval relic.
 
  
 
@@ -25,17 +25,33 @@ Advocates of ◊acro{PR} too often misunderstand the role of parliament, elevati
 
  
 
-Let us first consider an election of a single official (e.g. a President). How should we choose the winner? The easiest case is if a candidate wins an outright majority of the vote: he is the clear winner. But what if he falls short of a clear majority, despite winning more votes than any other candidate? A candidate who wins forty percent of the vote while his two opponents each won thirty percent would have been rejected by two-thirds of the voters, yet would win the election under ◊acro{FPTP}. 
+Let us first consider an election of a single official (e.g. a President). How should we choose the winner? The easiest case is if a candidate wins an outright majority of the vote: he is the clear winner. But what if he falls short of a clear majority, despite winning more votes than any other candidate? A candidate who wins forty percent of the vote while his two opponents each win thirty percent would have been rejected by two-thirds of the voters, yet would win the election under ◊acro{FPTP}. 
 
- 
+◊image[#:src "fptp_elect_1.svg" #:alt "A graph showing the conservative party winning with only 40 percent of the vote despite lacking a majority" 
+#:caption "The Conservative candidate wins with 40% of the vote, even as the centre-left Liberals and left-wing Labour won a combined 60% between them." 
+#:width "60%"]
 
 One solution is to add a ◊em{runoff election}: have the two candidates with the most votes compete head-to-head in another election. The winner of this election will by definition win a majority of the voters, yielding the democratic legitimacy that many crave. For example, if the candidate who won forty percent of the vote was a conservative, and his two rivals were on the left, a runoff election would force him to compete with the most popular of the left-wing candidates—a fight that he would likely lose. This is indeed how many countries elect their presidents; its appeal is that it prevents ◊em{wasted votes} for runner-up candidates. 
 
+◊image[
+#:src "fptp_elect_2.svg"
+#:alt "In a runoff election, the combined forces of Labour and the Liberals can win."
+#:width "60%"
+#:caption "In a runoff election, the combined forces of Labour and the Liberals can win."
+]
  
 
 But even this system is not good enough for the critics. The Marquis de Condorcet, one of the Enlightenment's pioneering social theorists, criticized such systems for rejecting candidates who might have had the most support among the population as a whole. For example, a centrist candidate might get eliminated in the first round if he won fewer votes than his left- and right-wing rivals. The second round would  then be a battle of the far right and left, even if the centrist candidate would have won in a head-to-head race against either extreme. This is called a ◊em{centre squeeze}, where a potential consensus pick is discarded for one of two radicals. The two-round system is often shunned by scholars for this exact reason.
 
- 
+◊image[
+#:src "fptp_elect_3.svg"
+#:alt "A centre squeeze: the centrist candidate is disqualified, leading
+to a runoff election between two radicals."
+#:width "60%"
+#:caption "A centre squeeze: the centrist candidate is disqualified, leading
+to a runoff election between two radicals."
+]
+
 
 Critics often propose alternatives. ◊em{Condorcet voting} is a complex system that works similarly to a ◊em{round-robin tournament}: all candidates face each other in a series of one-on-one elections. The candidate who wins most of these pairwise elections would be the winner. Applied to our previous example, the centrist candidate would win, as he would defeat both his left-wing and right-wing rivals in head-to-head matchups. But the system's complexity—and the fact that a rock-paper-scissors scenario may emerge, where no candidate can win a majority of matchups—makes it impractical. While other systems exist, scholars tend to criticize single-member elections as a whole for this reason. They instead prefer electing a body of people (such as a parliament), as it makes it easier to represent minority views. 
 
@@ -124,7 +140,9 @@ Yet that is precisely what ◊acro{FPTP} does when applied to a legislature. Whi
 
  
 
-The result is a system that evolves with its voters. When a nation is ethnically balkanized, it leads to a parliament where no party has a majority, fostering coalition-building and compromise. As the nation matures and becomes more unified, coalition-based governments give way to strong, decisive majorities that can try new ideas and solve problems quickly. This is why ◊acro{FPTP} has been able to adapt in heavily balkanized countries like India, homogeneous ones like Botswana, and countries in between like the ◊acro{UK} and Canada.
+The result is a system that evolves with its voters. When a nation is ethnically balkanized, it leads to a parliament where no party has a majority, fostering coalition-building and compromise. As the nation matures and becomes more unified, coalition-based governments give way to strong, decisive majorities that can try new ideas and solve problems quickly. 
+
+This has allowed ◊acro{FPTP} to adapt to a wide range of social and political contexts. Diverse states like India, Kenya, and Malaysia tend to have coalition-heavy politics with many small parties based around local concerns. Homogeneous countries like Botswana instead have a few big parties that win massive landslides in each election. And in-between countries like the ◊acro{UK} and Canada tend to see a mix of both, as regionalist sentiment waxes and wanes (e.g. Scotland, Quebec) and as the two main coalitions fracture and reunite.
 
  
 

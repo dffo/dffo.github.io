@@ -92,9 +92,20 @@
 
 ;; TODO: add caption support to the image function
 (provide image)
-(define (image #:src link #:alt alttext #:width [wpct "100%"])
-    `(figure 
-	(img ((src ,link) (alt ,alttext) (style ,(format "width: ~a" wpct))))))
+;;(define (image #:src link #:alt alttext #:width [wpct "100%"])
+;;    `(figure 
+;;	(img ((src ,link) (alt ,alttext) (style ,(format "width: ~a" wpct))))))
+
+
+(define (image #:src link 
+               #:alt alttext 
+               #:width [wpct "100%"] 
+               #:caption [caption #f])
+  `(figure
+     ,@(if caption
+           `((img ((src ,link) (alt ,alttext) (style ,(format "width: ~a" wpct))))
+             (figcaption ,caption))
+           `((img ((src ,link) (alt ,alttext) (style ,(format "width: ~a" wpct))))))))
 
 (provide title)
 (define (title maintitle [subtitle #f] #:big? [big? #f])

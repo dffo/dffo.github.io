@@ -115,7 +115,7 @@ Indeed, there are some countries that have such quotas. But the question is ◊e
 
  
 
-Note that I said ◊em{directly represented}. One of the great myths brought by the critics of ◊acro{FPTP} is that it denies marginalized factions representation. In fact, ◊acro{FPTP} represents such factions in a way that is remarkably sophisticated. This representation tends to be ◊em{indirect}, working silently in ways that are hard for intellectuals to empirically measure; but that doesn't make it any less real, or powerful.
+Note that I said ◊em{directly represented}. One of the great myths brought by the critics of ◊acro{FPTP} is that it denies marginalized factions representation. In fact, ◊acro{FPTP} represents such factions in a way that is remarkably sophisticated. This representation tends to be ◊em{indirect}, working silently in ways that can be hard to numerically measure; but that doesn't make it any less real, or powerful.
 
  
 

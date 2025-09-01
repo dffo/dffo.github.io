@@ -9,7 +9,8 @@
 (module setup racket/base
   (provide (all-defined-out))
   (require pollen/setup)
-  (define block-tags (cons 'content-warning 'block-note default-block-tags)))
+  (define block-tags (list 'content-warning 'block-note default-block-tags))
+  (define command-char #\◊))
 
 (provide root)
 (define (root . elements)

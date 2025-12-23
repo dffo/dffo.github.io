@@ -658,6 +658,6 @@ dissent as immoral while hushing any
 concerns about tradeoffs or competing claims.
 Such rhetoric might be good for winning debates. 
 But if it threatens
-the cause of human dignity for all, it 
+the cause of human welfare for all, it 
 is a victory unworthy of the name.
 ◊(end-mark)

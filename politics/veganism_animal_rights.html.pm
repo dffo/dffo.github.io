@@ -47,16 +47,17 @@ dollar that can bring us more for less can spur us to act quickly. These
 twin concepts of ◊em{marginal tradeoffs} and ◊em{fungibility} are what make the
 system work.
 
-This is where the great flaw of veganism emerges when assessed on utilitarian
+This is where the key flaw of veganism emerges when assessed on utilitarian
 grounds: it lacks a coherent moral economy. Popular veganism
 assigns all direct consumption an infinite moral cost
 (more precisely, it is ◊i{lexically prior}), while leaving indirect
 consumption effectively unpriced. The problem is that this
-moral economy fails on both counts. It doesn't allow us to make marginal
+moral economy fails on both counts. First, it doesn't allow us to make marginal
 tradeoffs, because an infinite cost is inherently unbeatable.
-Imagine a municipality wanted to pave a rural road. They estimated that the
-project would kill a dozen deer. Would that be worth it, given the cost
-to animal life? What about a half-dozen deer? Without tradeoffs the question
+Imagine the mayor wanted to pave a rural road. He estimated that the
+project would kill a dozen deer. 
+Would that be worth it, given its harm to animals?
+What about a half-dozen deer? Without tradeoffs the question
 is unanswerable.
 
 The lack of fungibility also causes problems. What if instead the road killed 
@@ -79,18 +80,18 @@ growing far more plants to use as feed than if we simply ate the plants
 directly. In that sense, it is very plausible that a herbivore society would
 need to kill fewer animals to eat.
 
+Unless we weight mammalian worth very highly, the order-of-magnitude increase
+in harm to produce the feed likely dominates the total harm of livestock.
 But note the implication. If husbandry's greatest sins are not of kind but
-degree, its harms correlate with ◊em{all} forms of consumption. 
-People choose to spend money on consumption because it enriches their lives.
-If people switched to eating plants exclusively,
-they would have more money to spend on travel,
-sport, or real estate, which also harm ecosystems and animals---a 
-classic ◊i{rebound effect}.
-The deeper problem is that meat isn't special.
-All human consumption correlates with harm to animals, because land
-is scarce and our lives overlap. Treating meat differently
-requires normatively weighting mammals higher than the order-of-magnitude effects
-of trophic inefficiencies. 
+degree, such harms scale with ◊em{all} forms of consumption. 
+In this sense, meat is not special:
+all human consumption correlates with harm to animals, because land
+is scarce and our lives overlap. 
+Meat causes more harm because it consumes more resources. 
+But if people saved money by eating plants exclusively,
+they would likely shift their consumption to
+travel, sport, or real estate, which also harm ecosystems and animals---a 
+◊i{substitution}, not reduction.
 
 Meanwhile, more sophisticated approaches that try to graft a moral economy onto veganism
 risk becoming intractable.
@@ -184,7 +185,7 @@ Such bans don't immediately make sense on their face, as giving customers the
 option to buy such products doesn't take away their right to buy meat from livestock.
 While some may see it as just a sop to farmers, many politicians 
 ◊a[#:href "https://www.bbc.com/news/world-us-canada-68947766"]{explicitly frame it} 
-as a reaction to animal-rights interests: ◊i{if lab-grown meat takes off,
+as a reaction to animal-rights absolutism: ◊i{if lab-grown meat takes off,
 the elites are going to foist it on working families. Better to nip it in the bud 
 beforehand.} Culinary terms have now been enlisted in the culture war—is there
 a more immediately evocative image than the ◊i{soy latte}? The

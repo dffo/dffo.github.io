@@ -46,15 +46,16 @@ world's resources is held taut against the benefits they provide us; and any
 dollar that can bring us more for less can spur us to act quickly. These
 twin concepts of ◊em{marginal tradeoffs} and ◊em{fungibility} are what make the
 system work.
-
 This is where the key flaw of veganism emerges when assessed on utilitarian
-grounds: it lacks a coherent moral economy. Popular veganism
+grounds: it lacks a coherent moral economy. 
+
+Let us first look at popular forms of veganism. Popular veganism
 assigns all direct consumption an infinite moral cost
 (more precisely, it is ◊i{lexically prior}), while leaving indirect
 consumption effectively unpriced. The problem is that this
 moral economy fails on both counts. First, it doesn't allow us to make marginal
 tradeoffs, because an infinite cost is inherently unbeatable.
-Imagine the mayor wanted to pave a rural road. He estimated that the
+Imagine a mayor wants to pave a rural road. He estimates that the
 project would kill a dozen deer. 
 Would that be worth it, given its harm to animals?
 What about a half-dozen deer? Without tradeoffs the question
@@ -63,7 +64,7 @@ is unanswerable.
 The lack of fungibility also causes problems. What if instead the road killed 
 a dozen squirrels instead of deer? Or a dozen ants, or spiders? Would that
 make the project more defensible? 
-Of course, most vegans would ignore the problem entirely, as it doesn't
+Of course, veganism doesn't really focus on such cases, as they don't
 involve the direct consumption of animals. 
 Yet the fact that veganism
 leaves such large swathes of human activity effectively unpriced means that it is
@@ -73,27 +74,28 @@ reduce animal harm. There are too many free variables.
 It may seem unfair to press veganism in such an example, when the
 framework focuses on other domains of human activity such as agriculture.
 But even here, the lack of fungibility makes things hard: is killing a single
-cow worse than killing a hundred beetles with pesticides? The strongest
-argument that raising livestock causes more harm than plants is not due
+cow worse than killing a hundred beetles with pesticides? 
+Let us now steelman a pure utilitarian vegan that treats all animals equally.
+The strongest
+argument against raising livestock is not due
 to mammalian worth, but rather trophic efficiencies: raising cattle requires
 growing far more plants to use as feed than if we simply ate the plants
 directly. In that sense, it is very plausible that a herbivore society would
 need to kill fewer animals to eat.
 
-Unless we weight mammalian worth very highly, the order-of-magnitude increase
+Unless we explicitly prioritize mammalian worth, the order-of-magnitude increase
 in harm to produce the feed likely dominates the total harm of livestock.
 But note the implication. If husbandry's greatest sins are not of kind but
 degree, such harms scale with ◊em{all} forms of consumption. 
-In this sense, meat is not special:
-all human consumption correlates with harm to animals, because land
-is scarce and our lives overlap. 
 Meat causes more harm because it consumes more resources. 
-But if people saved money by eating plants exclusively,
-they would likely shift their consumption to
+To isolate veganism's effects from a general turn towards asceticism,
+we must therefore hold society's aggregate demand to be fixed.
+If people ate more plants,
+they would then use the money saved to shift their consumption to
 travel, sport, or real estate, which also harm ecosystems and animals---a 
-◊i{substitution}, not reduction.
+◊i{substitution}, not a reduction of harm.
 
-Meanwhile, more sophisticated approaches that try to graft a moral economy onto veganism
+Meanwhile, more sophisticated approaches to veganism that try to weight animals
 risk becoming intractable.
 Such a task would require valuing every animal life in some common unit of account,
 and then determining the ◊i{social cost} of that basic unit in dollars.
@@ -107,16 +109,17 @@ but this would be far worse,
 sprawling out 
 into an entire command economy of moral pricing. 
 
-We can see that veganism fails as a heuristic due to its capricious
+We can see that veganism stumbles as a heuristic due to its capricious
 pricing of harm, while any finer-tuned system becomes untenable.
 Neither solution appears to be a better heuristic of animal harm than 
-a general measure of consumption. It is non-distortionary, broad-based,
+a general measure of consumption. 
+While imperfect, aggregate consumption is non-distortionary, broad-based,
 and doesn't require any complex accounting. 
-As a result, shifting government
-revenue to a consumption tax may oddly be the soundest means of promoting
-animal welfare practically possible.
-Veganism is just not that. It is rather a duty-based approach that focuses more
-on an intuitive moral hygiene than mathematical rigour.
+While a consumption tax may not be an obvious animal welfare policy, it
+would naturally push consumers towards activities that consume fewer resources,
+making it perhaps the most practical heuristic for reducing overall harm.
+Veganism, meanwhile, is more focused on
+an intuitive moral hygiene than mathematical rigour.
 
 ◊h2{Animal rights and political economy}
 

@@ -190,9 +190,11 @@ While some may see it as just a sop to farmers, many politicians
 ◊a[#:href "https://www.bbc.com/news/world-us-canada-68947766"]{explicitly frame it} 
 as a reaction to animal-rights absolutism: ◊i{if lab-grown meat takes off,
 the elites are going to foist it on working families. Better to nip it in the bud 
-beforehand.} Culinary terms have now been enlisted in the culture war—is there
-a more immediately evocative image than the ◊i{soy latte}? The
-populist rage against a caricatured elite is seductive, and growing.
+beforehand.} 
+Food is bound up with identity---top-down attempts to optimize it away
+risk evoking a glib technocracy, in which people are reduced to entries
+in a spreadsheet by those with no special moral insight.
+
 
 Tragically, the problem with animal rights advocates is not the moral substance of their claims. It is rather the political economy of their prescriptions. I believe that they are animated by an admirable zeal, but their desire to assert the unity between man and his fellow creatures should be rhetorical rather than legal. Government is not meant to give flesh to metaphysical truth, but to hold a plural society together. We all love animals. That alone should give their advocates hope.
 
@@ -215,8 +217,12 @@ Further improvements should be in this mould. As our knowledge grows, it should
 raise our ambitions, allowing us to reduce suffering without forgetting human needs.
 
 Most of these values can and 
-should remain customary and negotiated. But if government is made in the
-service of human wants, we should not forget that most humans want animals
+should remain customary and negotiated. 
+We must resist the illiberal impulse to impose one answer upon
+communities doing so in earnest, whether that be lab-grown
+meat or kosher slaughter.
+But if government is made in the service of human wants,
+we should not forget that most humans want animals
 to live happy lives. 
 The constraint is not our indifference to suffering, but the world's. 
 And as we navigate this vast cycle of life and death, we must strain to avoid

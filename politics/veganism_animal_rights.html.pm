@@ -156,9 +156,27 @@ ire of every other person in society—a risky gamble.
 
 The benefit of such a system is that it is predictable, since punishment emerges entirely from one's own actions; and it is based on action rather than factional loyalty. This makes it an easy sell to all members of a society, no matter how physically weak or poor, and lets them pool their power behind a rule-bound state that towers over even the greatest rogues and scoundrels.
 
-The system works because it is anchored in the ◊i{interchangeability} of all humans in society. This is what allows it to protect even the weakest among us, and its limits show clearly in our institutional fabric. The disabled, who cannot fight for themselves, are protected because each of us has the capacity to become disabled. I respect the disabled so that I should be so respected if something happens to me. I respect the sick, and the dying, and the unconscious, for the same reason. 
+The system works because it is anchored in the ◊i{interchangeability} of all
+humans in society. This is what allows it to protect even the weakest among us,
+and its limits show clearly in our institutional fabric. The disabled, who
+cannot fight for themselves, are protected because each of us has the capacity
+to become disabled. I respect the disabled so that I should be so respected if
+something happens to me. I respect the sick, and the dying, and the unconscious,
+for the same reason. Importantly, this is equally true of a man who is sick
+with an illness I can never have; interchangeability does not require perfect
+equality, but an equality of ◊em{vulnerability}.
 
-The exceptions prove the rule: having become an adult, I cannot become a child once more. And indeed, children tend to have fewer personal rights in our societies, with parents being given more discretionary power over them. But even so, we still guarantee children a baseline of rights as human beings. For weakening the dignity of human life, however young or old, has a chilling effect on all of us. That human dignity is interchangeable yet supreme is what holds the system together.
+The exceptions prove the rule: having become an adult, I cannot become a child
+once more. And indeed, children tend to have fewer personal rights in our
+societies, with parents being given more discretion over them.
+As a matter of political stability, societies tend to 
+converge on parental rights as a form of mutual
+accommodation---◊i{I will let you raise your kids in good faith
+if you let me do the same}.
+But even so, we still guarantee children a baseline of rights as human beings.
+For weakening the dignity of human life, however young or old, has a chilling
+effect on all of us. That human dignity is interchangeable yet supreme is what
+holds the system together.
 
 We can see that individual human rights are not a moral nicety imported into our system of government. They ◊em{are} the system. Whenever we add extra conditions to our legal foundations, such as giving a legal personhood to animals or nature, we burden these institutions with extra constraints not necessary to their stability. Indeed, if treating animals this way puts strain on human welfare (for example, by making food more expensive or threatening human culture), it opens up a space for populists to claim that the voters are being ill-served by their laws and government.
 
@@ -167,10 +185,12 @@ Indeed, many of the greatest social reforms were a vindication of human dignity
 through reciprocity and interchangeability. Take the abolition of slavery, for 
 example. Abolitionists did not think that the institution put them
 directly at risk of enslavement. But many argued that a society in 
-which a segment of human beings could be dominated by Slave Power made
-despotism more likely for all. Marx explicitly opposed slavery because he saw it
+which a segment of human beings could be dominated by an oligarchic ◊i{Slave Power} made
+despotism more likely for all. Marx saw slavery 
 as portending a future domination of ◊em{all} workers by wealthy capitalists.
-For critics, excuses of race were a diversion from the deeper, more universal issues.
+The critics saw within slavery a reflection of their own human frailty;
+race was merely a fig leaf for a deeper ill.
+
 
 Even aside from this, a framework of personhood is ill-fitting for animals, because
 there are too many cases where we need to treat animals collectively rather than
@@ -192,8 +212,8 @@ as a reaction to animal-rights absolutism: ◊i{if lab-grown meat takes off,
 the elites are going to foist it on working families. Better to nip it in the bud 
 beforehand.} 
 Food is bound up with identity---top-down attempts to optimize it away
-risk evoking a glib technocracy, in which people are reduced to entries
-in a spreadsheet by those with no special moral insight.
+risk evoking a glib technocracy, with people being reduced to entries
+in a spreadsheet by planners with no special moral insight.
 
 
 Tragically, the problem with animal rights advocates is not the moral substance of their claims. It is rather the political economy of their prescriptions. I believe that they are animated by an admirable zeal, but their desire to assert the unity between man and his fellow creatures should be rhetorical rather than legal. Government is not meant to give flesh to metaphysical truth, but to hold a plural society together. We all love animals. That alone should give their advocates hope.

@@ -154,7 +154,11 @@ my own dignity will be respected. If I start to trample on other people's
 dignity, I am essentially making a bet that I am stronger than the collective 
 ire of every other person in society—a risky gamble. 
 
-The benefit of such a system is that it is predictable, since punishment emerges entirely from one's own actions; and it is based on action rather than factional loyalty. This makes it an easy sell to all members of a society, no matter how physically weak or poor, and lets them pool their power behind a rule-bound state that towers over even the greatest rogues and scoundrels.
+The benefit of such a system is that it is predictable, since punishment emerges
+entirely from one's own actions; and it is based on action rather than factional
+loyalty. This makes it an easy sell to all members of a society, no matter how
+physically weak or poor, and lets them pool their power behind a rule-bound
+state that towers over even the greatest rogues and scoundrels.
 
 The system works because it is anchored in the ◊i{interchangeability} of all
 humans in society. This is what allows it to protect even the weakest among us,
@@ -166,17 +170,17 @@ for the same reason. Importantly, this is equally true of a man who is sick
 with an illness I can never have; interchangeability does not require perfect
 equality, but an equality of ◊em{vulnerability}.
 
-The exceptions prove the rule: having become an adult, I cannot become a child
-once more. And indeed, children tend to have fewer personal rights in our
-societies, with parents being given more discretion over them.
-As a matter of political stability, societies tend to 
-converge on parental rights as a form of mutual
-accommodation---◊i{I will let you raise your kids in good faith
+The case of children is illustrative: having become an adult, I cannot become a child
+once more---but I can become a parent.
+Accordingly, societies often give parents greater discretion over how they raise their kids.
+Such parental rights emerge as a form of mutual
+accommodation: ◊i{I will let you raise your kids in good faith
 if you let me do the same}.
+This approach reflects the unique burden borne by every parent while avoiding top-down
+impositions where customs and traditions diverge.
 But even so, we still guarantee children a baseline of rights as human beings.
 For weakening the dignity of human life, however young or old, has a chilling
-effect on all of us. That human dignity is interchangeable yet supreme is what
-holds the system together.
+effect on all of us.
 
 We can see that individual human rights are not a moral nicety imported into our system of government. They ◊em{are} the system. Whenever we add extra conditions to our legal foundations, such as giving a legal personhood to animals or nature, we burden these institutions with extra constraints not necessary to their stability. Indeed, if treating animals this way puts strain on human welfare (for example, by making food more expensive or threatening human culture), it opens up a space for populists to claim that the voters are being ill-served by their laws and government.
 
@@ -242,7 +246,7 @@ We must resist the illiberal impulse to impose one answer upon
 communities doing so in earnest, whether that be lab-grown
 meat or kosher slaughter.
 But if government is made in the service of human wants,
-we should not forget that most humans want animals
+we should also not forget that most humans want animals
 to live happy lives. 
 The constraint is not our indifference to suffering, but the world's. 
 And as we navigate this vast cycle of life and death, we must strain to avoid

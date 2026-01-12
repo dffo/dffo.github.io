@@ -44,10 +44,8 @@ underlying tension.
 All human consumption sits at the intersection of cost
 and benefit. The utility
 gained from consumption, whether health or enjoyment, makes the initial costs
-worthwhile.
-But these costs must be accounted for, and a
-market economy allows us to do so.
-With it, we can weigh the benefits of consumption against
+worthwhile; but we must account for these costs for to prevent overconsumption.
+A market economy allows us to weigh the benefits of consumption against
 the scarcity of labour and physical resources by
 comparing each cost in a shared currency. 
 This not only lets us tune
@@ -60,7 +58,7 @@ These
 twin concepts of ◊em{marginal tradeoffs} and ◊em{fungibility} are what make the
 system work.
 Prices force us to constantly weigh
-the value we gain from buying stuff
+the value we gain from buying things
 against the resulting toll on the world's resources,
 or to find new ways to use what we have more efficiently.
 They discipline our habits of consumption through the lenses of physical scarcity
@@ -72,8 +70,9 @@ our competing needs---that is, we need a ◊i{moral economy}.
 This is where veganism's utilitarian claims come under strain.
 
 Let us first look at popular forms of veganism. Popular veganism
-assigns all direct consumption an unbounded moral cost
-(more precisely, it is ◊i{lexically prior}), while leaving indirect
+assigns all direct animal use---whether meat, milk,
+or animal testing---an unbounded moral cost
+(more precisely, a ◊i{lexically prior one}), while leaving indirect
 consumption effectively unpriced. But such a
 moral economy stumbles on both counts.
 First, it doesn't allow us to make marginal
@@ -96,9 +95,10 @@ reduce animal harm. There are too many free variables.
 
 It may seem unfair to press veganism with such examples, since the
 framework focuses on other domains of human activity such as agriculture.
-But even here, the lack of fungibility poses problems: is killing a single
-cow worse than killing a thousand beetles with pesticides? 
-Let us shift from popular veganism and
+But even here, the lack of fungibility poses problems
+for popular veganism: is killing a single
+cow worse than poisoning a thousand beetles? 
+Let us thus shift from popular veganism and
 steelman a pure utilitarian vegan that treats all animals equally.
 The strongest
 argument against raising livestock is not
@@ -133,14 +133,14 @@ but this would be far worse,
 sprawling out 
 into an entire command economy of moral pricing. 
 
-We can see that veganism stumbles as a heuristic due to its capricious
+We can see that veganism stumbles as a heuristic due to its arbitrary
 pricing of harm, while any finer-tuned system becomes untenable.
 Neither solution appears to be a better heuristic of animal harm than 
 a general measure of consumption. 
 While imperfect, aggregate consumption is non-distorting, broad-based,
 and easy to measure.
 While a consumption tax has its own share of complexity, it
-would naturally push consumers towards activities that consume fewer resources,
+would naturally push people towards activities that consume fewer resources,
 making it perhaps a more practical heuristic for reducing overall harm.
 Veganism, meanwhile, is more focused on
 an intuitive moral hygiene than mathematical rigour.
@@ -196,14 +196,14 @@ equality, but an equality of ◊em{vulnerability}.
 
 The case of children is illustrative: having become an adult, I cannot become a child
 once more---but I can become a parent.
-Accordingly, societies often respect
-parental discretion over how they raise their kids.
+Accordingly, societies are often sensitive to
+parental discretion in how they raise their kids. 
 Such parental rights emerge as a reciprocal
 accommodation: ◊i{I will let you raise your kids in good faith
 if you let me do the same}.
 This approach reflects both the unique burden borne by every parent
 and the need to avoid top-down
-impositions that turn moral and cultural differences into zero-sum conflict.
+impositions that turn differences of opinion or culture into conflict.
 But even so, we still guarantee children a baseline of rights as human beings.
 For weakening the dignity of human life, however young or old, has a chilling
 effect on all of us.
@@ -278,7 +278,7 @@ this world. Veganism and animal rights follow in this approach; they do
 not sit apart from them, nor are they intrinsically better than their
 venerable peers. The best approach then is to avoid absolutist, moralizing claims about
 animal rights. It is one of man's oldest debates; that it has festered
-unresolved for so long shows that there is no obvious answer to it.
+unresolved for so long suggests that there is no obvious answer to it.
 
 Grounded in pluralism and mutual respect, we can then try to find
 points of alignment between human dignity and animal dignity.

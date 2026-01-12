@@ -72,8 +72,9 @@ This is where veganism's utilitarian claims come under strain.
 Let us first look at popular forms of veganism. Popular veganism
 assigns all direct animal use---whether meat, milk,
 or animal testing---an unbounded moral cost
-(more precisely, a ◊i{lexically prior one}), while leaving indirect
-consumption effectively unpriced. But such a
+(more precisely, a ◊i{lexically prior} one), while leaving indirect
+animal harm effectively unpriced, be it through infrastructure,
+fuel, or industry. But such a
 moral economy stumbles on both counts.
 First, it doesn't allow us to make marginal
 tradeoffs, because an unbounded cost is inherently unbeatable.

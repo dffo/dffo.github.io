@@ -186,14 +186,16 @@ physically weak or poor, and lets them pool their power behind a rule-bound
 state that towers over even the greatest rogues and scoundrels.
 
 The system works because it is anchored in the ◊i{interchangeability} of all
-humans in society. This is what allows it to protect even the weakest among us,
-and its limits show clearly in our institutional fabric. The disabled, who
+humans in society. This is what allows it to protect even the weakest among us.
+The disabled, who
 cannot fight for themselves, are protected because each of us has the capacity
-to become disabled. I respect the disabled so that I should be so respected if
+to become similarly
+vulnerable. I respect the disabled so that I will be respected if
 something happens to me. I respect the sick, and the dying, and the unconscious,
 for the same reason. Importantly, this is equally true of a man who is sick
 with an illness I can never have; interchangeability does not require perfect
-equality, but an equality of ◊em{vulnerability}.
+equality, but an ◊i{equality of vulnerability}.
+That is what allows it to generalize to all of us, regardless of our differences.
 
 The case of children is illustrative: having become an adult, I cannot become a child
 once more---but I can become a parent.

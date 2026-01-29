@@ -326,18 +326,6 @@ all along.
 With the enfeebling veto removed, the legislature would then become more responsible
 and less performative, a true coequal branch.
 
-An even more fanciful change would be to transfer control of the military
-entirely to the Speaker's control, while leaving the police power under
-presidential authority. This would not only prevent the militarization of the
-police, a big risk in a democracy. It would also prevent a coup from a
-President frustrated with attempts to discipline him.
-Taken to its extreme, this system would resemble an inverse of the semi-presidential
-model, with the legislature and its leader controlling foreign policy, with
-the president controlling the domestic use of force. 
-This fixes one of the flaws of the presidential system, which is that Congress
-technically declares war but has in practice largely abdicated that role to
-the President.}
-
 ◊h2{Conclusion}
 
 It may seem naïve to try and construct systems that are held together

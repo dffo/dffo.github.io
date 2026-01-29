@@ -1,5 +1,5 @@
 #lang pollen
-◊(define-meta doc-publish-date "2026-01-05")
+◊(define-meta doc-publish-date "2026-01-28")
 
 ◊(title "Beyond the Parliamentary--Presidential debate" 
 "Legislative diffusion and the executive ratchet" #:big? #f)

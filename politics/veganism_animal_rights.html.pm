@@ -15,7 +15,7 @@ But this perennial puzzle makes a useful case study for the
 tension at the heart of human society: the need to make compromises
 under scarcity, uncertainty, and moral fog. In particular, more contemporary
 approaches around animal rights and veganism cleanly illustrate the
-ethical tradeoffs that result in the moral economy and political institutions
+ethical tradeoffs that emerge in the political institutions and discourse
 of a plural society.
 
 We begin by exploring veganism through the lens of ◊i{moral economy}---the

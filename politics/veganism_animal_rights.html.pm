@@ -111,14 +111,15 @@ need to kill fewer animals to eat.
 Unless we explicitly prioritize mammalian worth, the order-of-magnitude increase
 in harm to produce the feed likely dominates the total harm of livestock.
 But note the implication. If husbandry's greatest sins are not of kind but
-degree, such harms scale with ◊em{all} forms of consumption. 
-Meat causes more harm because it consumes more resources. 
-To isolate veganism's effects from a general turn towards asceticism,
-we must therefore hold society's aggregate demand fixed.
+degree, such harms scale with ◊em{all} forms of resource use. 
+Meat simply becomes a proxy for consumption. But veganism is ◊i{how} you consume,
+not ◊i{how much};
+the two are strictly orthogonal.
+To avoid smuggling in a generic asceticism,
+we thus have to analyze veganism while holding aggregate demand fixed.
 If people ate more plants,
-they would then use the money saved to shift their consumption to
-travel, sport, or real estate, which also harm ecosystems and animals---a 
-◊i{substitution}, not a reduction of harm.
+they would then simply shift their consumption to
+travel, sport, or real estate, which also harm animals---a classic ◊i{substitution effect}.
 
 Meanwhile, more sophisticated approaches to veganism that try to weight animals
 risk becoming intractable.
@@ -140,9 +141,9 @@ Neither solution appears to be a better heuristic of animal harm than
 a general measure of consumption. 
 While imperfect, aggregate consumption is non-distorting, broad-based,
 and easy to measure.
-While a consumption tax has its own share of complexity, it
-would naturally push people towards activities that consume fewer resources,
-making it perhaps a more practical heuristic for reducing overall harm.
+Reducing consumption
+would naturally push people towards activities that use fewer resources,
+making it a surprisingly practical---if imperfect---guide to reducing overall harm.
 Veganism, meanwhile, is more focused on
 an intuitive moral hygiene than mathematical rigour.
 
@@ -195,7 +196,9 @@ something happens to me. I respect the sick, and the dying, and the unconscious,
 for the same reason. Importantly, this is equally true of a man who is sick
 with an illness I can never have; interchangeability does not require perfect
 equality, but an ◊i{equality of vulnerability}.
-That is what allows it to generalize to all of us, regardless of our differences.
+That makes it much stronger and more scalable to a diverse society than
+reciprocity alone.
+◊;{That is what allows it to generalize to all of us, regardless of our differences.}
 
 The case of children is illustrative: having become an adult, I cannot become a child
 once more---but I can become a parent.

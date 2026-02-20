@@ -126,9 +126,19 @@ While coalition-heavy consensus governments can be useful in countries grappling
 with sectarian or regionalist conflict,
 too much gridlock can lead to disillusionment as it becomes harder
 to learn what policies work and to hold parties accountable.
-It also incentivizes the other
-branches to pick up the slack by being more assertive, whether 
-through judicial interventionism or executive dominance. 
+
+The result is greater pressure on the other branches to pick up the slack.
+Courts are a clear example:
+when laws are artificially frozen by gridlock, they can come under
+pressure to interpret laws more broadly to keep up with new developments.
+Any ill-considered precedents become harder for the legislature to
+check through statutory revision.
+Diffusion therefore massively empowers the judiciary,
+even in systems without judicial supremacy.
+The temptation for judicial heroism risks politicization and popular disillusionment;
+constitutional review only increases the risks.
+Yet perhaps the most acute danger of diffusion comes not from the judiciary
+but the executive branch.
 
 ◊h2{The executive ratchet}
 

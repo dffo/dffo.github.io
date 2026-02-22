@@ -112,7 +112,7 @@ crystallizing into near-sectarian identities.
 Importantly, such gridlock has little to do with the parliamentary versus
 presidential debate. What matters is legislative diffusion. Presidential
 countries like Ghana are strikingly gridlock-free, lacking an upper house,
-having a robust, two-party system, and no midterm elections that cause
+having a robust, two-party system, and lacking midterm elections that could yield
 divided government. Meanwhile, Argentina is the complete opposite scenario:
 highly proportional representation, a strong upper house, and staggered
 midterm elections that lead to a notoriously gridlocked government. But gridlock
@@ -131,11 +131,10 @@ The result is greater pressure on the other branches to pick up the slack.
 Courts are a clear example:
 when laws are artificially frozen by gridlock, they can come under
 pressure to interpret laws more broadly to keep up with new developments.
-Any ill-considered precedents become harder for the legislature to
-check through statutory revision.
-Diffusion therefore massively empowers the judiciary,
-even in systems without judicial supremacy.
-The temptation for judicial heroism risks politicization and popular disillusionment;
+Ill-considered precedents become harder for the legislature to
+check through statutory revision, as diffusion makes it hard to amend laws.
+This massively empowers the judiciary even without judicial supremacy.
+The temptation for judicial heroism risks politicization and popular angst;
 constitutional review only increases the risks.
 Yet perhaps the most acute danger of diffusion comes not from the judiciary
 but the executive branch.
@@ -144,7 +143,7 @@ but the executive branch.
 
 If gridlock's causes are independent of constitutional regime,
 the greatest risk of authoritarianism---that of an overmighty executive ruling by
-fiat---ironically seems to afflict both democratic systems equally, by completely
+fiat---unsettlingly seems to afflict both democratic systems equally, by completely
 different means.
 A powerful executive branch is really just the positive form of legislative
 diffusion. Rather than giving many different actors veto power over new acts,
@@ -168,10 +167,10 @@ struck down by courts.
 But this ill is equally pernicious
 in parliamentary systems. Perhaps unintuitively, the parliamentary
 model does also have a real separation of powers. Cabinet ministers cannot
-simply create laws by fiat---they must introduce a bill into parliament,
+simply create laws by fiat---they must introduce a bill into Parliament,
 with all the procedural speed bumps that entails.
-But once parliament passes a law granting executive powers to the
-cabinet or external agencies, those powers can now be used with 
+But once Parliament passes a law granting executive powers to the
+cabinet or external agencies, those powers can then be used with 
 greater speed and less restraint.
 In parliamentary countries like India and Hungary, the government is often
 criticized for using its executive powers to pressure journalists,

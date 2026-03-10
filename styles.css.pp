@@ -361,6 +361,11 @@ initial {
 
 sc {
     letter-spacing: ◊sc-tracking-body;
+    font-feature-settings: "smcp", "c2sc";
+}
+
+sc-lower {
+    letter-spacing: ◊sc-tracking-body;
     font-feature-settings: "smcp";
 }
 

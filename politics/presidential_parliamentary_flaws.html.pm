@@ -126,16 +126,20 @@ While coalition-heavy consensus governments can be useful in countries grappling
 with sectarian or regionalist conflict,
 too much gridlock can lead to disillusionment as it becomes harder
 to learn what policies work and to hold parties accountable.
-
 The result is greater pressure on the other branches to pick up the slack.
+
 Courts are a clear example:
 when laws are artificially frozen by gridlock, they can come under
 pressure to interpret laws more broadly to keep up with new developments.
-Ill-considered precedents become harder for the legislature to
-check through statutory revision, as diffusion makes it hard to amend laws.
+Mistaken precedents become harder for the legislature to
+correct, as diffusion makes it difficult to amend laws.
 This massively empowers the judiciary even without judicial supremacy.
-The temptation for judicial heroism risks politicization and popular angst;
-constitutional review only increases the risks.
+Stretching old laws to handle modern controversies risks politicization
+and backlash.
+In America, we see this in cases such as ◊i{Bostock}
+and the courts' expansive interpretation of
+◊acro{NEPA}.
+Constitutional review only increases the risks.
 Yet perhaps the most acute danger of diffusion comes not from the judiciary
 but the executive branch.
 

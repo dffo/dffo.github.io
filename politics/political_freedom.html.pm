@@ -267,7 +267,7 @@ move---and such threats themselves can chasten.
 Political freedom can then remain the guiding star, 
 instead of an inconvenience to be mortgaged.
 
-◊sc{All human beings} are born with a dignity greater than the 
+◊sc-lower{All human beings} are born with a dignity greater than the 
 entire universe. Yet for most of man's existence, that
 dignity was betrayed by the limits of human rule, yielding
 tyranny, hunger, and death.

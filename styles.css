@@ -348,6 +348,11 @@ initial {
 
 sc {
     letter-spacing: 0.06rem;
+    font-feature-settings: "smcp", "c2sc";
+}
+
+sc-lower {
+    letter-spacing: 0.06rem;
     font-feature-settings: "smcp";
 }
 

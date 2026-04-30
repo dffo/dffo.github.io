@@ -121,7 +121,7 @@ If people ate more plants,
 they would then simply shift their consumption to
 travel, sport, or real estate, which also harm animals---a classic ◊i{substitution effect}.
 
-Meanwhile, more sophisticated approaches to veganism that try to weight animals
+Meanwhile, alternative approaches in veganism that do try to weight animal worth
 risk becoming intractable.
 Such a task would require valuing every animal life in some common unit of account,
 and then determining the ◊i{social cost} of that basic unit in dollars.
@@ -162,9 +162,9 @@ legal rights for individual animals are a workable approach.
 
 Human societies have long
 had a rich set of customary rights and norms governing animal use, but these are
-enforced ◊i{ad hoc} and through negotiation rather than judges, lawyers, and the
-Leviathan of the state.
-Legal rights in this context are pragmatic and instrumental—their job is to allow men
+enforced ◊i{ad hoc} and through negotiation rather than judges, lawyers, and police.
+In contrast to customs and taboos,
+legal rights are pragmatic and instrumental—their job is to allow men
 to live together without coming to blows by regulating the use of force. As Burke
 wrote in a flash of realist insight, 
 ◊q{government is a contrivance of human wisdom to provide for human wants.} 
@@ -225,7 +225,7 @@ the voters are being ill-served by their laws and government.
 
 The argument is not simply that change is divisive, and so should always be avoided.
 Indeed, many of the greatest social reforms were a vindication of human dignity
-through reciprocity and interchangeability. Take the abolition of slavery, for 
+through interchangeability. Take the abolition of slavery, for 
 example. Abolitionists did not think that the institution put them
 directly at risk of enslavement. But many argued that a society in 
 which a segment of human beings could be dominated by an oligarchic ◊i{Slave Power} made

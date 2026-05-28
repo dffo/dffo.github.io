@@ -1,7 +1,7 @@
 #lang pollen
 ◊(define-meta doc-publish-date "2025-12-21")
 
-◊(title "The pitfalls of animal rights" 
+◊(title "Animal rights and pluralism" 
 "The moral and political economy of animal ethics" #:big? #f)
 ◊(print-date)
 
@@ -21,12 +21,19 @@ of a plural society.
 We begin by exploring veganism through the lens of ◊i{moral economy}---the
 ability to make moral tradeoffs under uncertainty and given competing wants.
 We start with intuitive, popular forms of veganism, before shifting to
-more sophisticated utilitarian and quantitative approaches. Afterwards, we explore
+more utilitarian and quantitative approaches. Afterwards, we explore
 animal rights as a legal movement and philosophy, weighing its merits and costs
 in the context of a ◊i{political economy} where voter interests shape
-political incentives. While both movements are admirably earnest,
+political incentives. 
+
+The point is not to glibly dismiss or ◊q{debunk} these approaches,
+but rather to explore the tensions that emerge when generalizing
+duty-based or metaphysical frameworks to the level of public ethic.
+While both movements are admirably earnest, and may have use
+as a private ethic or guiding ideal,
 their neglect of 
-the underlying incentives in society risks unintended consequences and backlash.
+the underlying incentives in society can risk unintended consequences
+when asserted universally or as a society-wide rule.
 
 ◊h2{Veganism and moral economy}
 
@@ -38,13 +45,14 @@ and empirical approach,
 arguing that avoiding animal husbandry is a reliable way to minimize the 
 unnecessary death of living beings. Given the burden of such a commitment,
 it is hard to doubt their sincerity.
-But trying to quantify the exact effects of such an approach reveals the
-underlying tension.
+But aside from its value as a private ethic, veganism's advocates sometimes
+blend in consequentialist or utilitarian arguments about reducing
+overall harm that are contestable.
 
 All human consumption sits at the intersection of cost
 and benefit. The utility
 gained from consumption, whether health or enjoyment, makes the initial costs
-worthwhile; but we must account for these costs for to prevent overconsumption.
+worthwhile; but we must account for these costs to prevent overconsumption.
 A market economy allows us to weigh the benefits of consumption against
 the scarcity of labour and physical resources by
 comparing each cost in a shared currency. 
@@ -69,83 +77,166 @@ need to be able to weigh moral costs both against each other and against
 our competing needs---that is, we need a ◊i{moral economy}.
 This is where veganism's utilitarian claims come under strain.
 
-Let us first look at popular forms of veganism. Popular veganism
-assigns all direct animal use---whether meat, milk,
-or animal testing---an unbounded moral cost
-(more precisely, a ◊i{lexically prior} one), while leaving indirect
-animal harm effectively unpriced, be it through infrastructure,
-fuel, or industry. But such a
-moral economy stumbles on both counts.
-First, it doesn't allow us to make marginal
-tradeoffs, because an unbounded cost is inherently unbeatable.
-Imagine the mayor wants to pave a rural road. He estimates that the
-project would kill a dozen deer. 
-Should the project continue given those harms?
-What about a half-dozen deer? Without tradeoffs the question
-is unanswerable.
+Let us first look at popular forms of veganism.
+Popular veganism is at its core a prohibitionary framework
+that disallows certain products based on whether they
+are directly derived from animals.
+It tends to allow products that don't directly implicate animals,
+regardless of the number of animals indirectly harmed through
+their production, for example through logistics or fuel.
+Translated into moral-economic terms, veganism assigns direct
+animal use a prohibitive moral cost, while leaving indirect
+animal use unpriced.
+Its simplicity is useful as a personal ethic. 
+But this simplicity is a burden when viewed as a system
+of moral pricing. 
 
-Second, the lack of fungibility causes problems. What if instead the road killed 
-a dozen squirrels instead of deer? Or a dozen ants, or spiders? Would that
-make the project more defensible? 
-Of course, veganism doesn't really focus on such cases, as they don't
-involve the direct consumption of animals. 
+Creating a binary distinction of
+◊i{prohibited} versus ◊i{permitted} makes marginal tradeoffs
+impractical.
+Within the relatively narrow slice of direct consumption,
+this may be tolerable enough. It helps that vegans may make
+pragmatic exceptions where the marginal tradeoffs would be
+intolerable, for example with vaccines derived from animal
+cells; but these exceptions are naturally ◊i{ad hoc} and
+hard to universalize. And it
+says little about the diffuse indirect harms in society,
+even as they implicate much of our infrastructure and logistics.
+For example, would it be justified to pave a rural road if
+it would kill a dozen deer?
+What about a half-dozen deer?
+We need marginal tradeoffs to answer this.
+
+And flattening consumption into ◊i{direct harm}
+versus ◊i{no direct harm} makes it difficult to compare
+harms both within and between
+categories.
+For instance, would the road be more defensible if it instead killed 
+a dozen squirrels instead of deer? 
+In agriculture, how does the death of one cow compare with the death
+of a hundred rodents from pesticides?
+Depending on fungibility, the cow's death either dominates
+the total harm, or vanishes into insignificance.
+But focusing on direct consumption would only consider
+the cow.
+This can lead to strange asymmetries: 
+that honey should be considered more harmful than
+corn syrup, or butter more than palm oil, or wool more than
+polyester.
+
+
+Some may object that veganism doesn't pretend to regulate all aspects
+of human life. 
 Yet the fact that veganism
-leaves such large swathes of human activity effectively unpriced means that it is
-impossible to guarantee that a society following its tenets would actually
-reduce animal harm. There are too many free variables.
+leaves such large swathes of human activity effectively unpriced makes it 
+hard to know if generalizing its tenets to a whole society would really
+reduce animal harm. There are just too many free variables.
+To examine the complexities in accounting for second-order
+harms, let us therefore move past popular veganism and try to integrate 
+indirect harms into
+a vegan framework, starting with simpler approaches.
 
-It may seem unfair to press veganism with such examples, since the
-framework focuses on other domains of human activity such as agriculture.
-But even here, the lack of fungibility poses problems
-for popular veganism: is killing a single
-cow worse than poisoning a thousand beetles? 
-Let us thus shift from popular veganism and
-steelman a pure utilitarian vegan that treats all animals equally.
-The strongest
-argument against raising livestock is not
-mammalian worth, but trophic efficiencies: raising cattle requires
-growing far more plants to use as feed than if we simply ate the plants
-directly. In that sense, it is very plausible that a herbivore society would
-need to kill fewer animals to eat.
 
-Unless we explicitly prioritize mammalian worth, the order-of-magnitude increase
-in harm to produce the feed likely dominates the total harm of livestock.
-But note the implication. If husbandry's greatest sins are not of kind but
-degree, such harms scale with ◊em{all} forms of resource use. 
-Meat simply becomes a proxy for consumption. But veganism is ◊i{how} you consume,
-not ◊i{how much};
-the two are strictly orthogonal.
-To avoid smuggling in a generic asceticism,
-we thus have to analyze veganism while holding aggregate demand fixed.
-If people ate more plants,
-they would then simply shift their consumption to
-travel, sport, or real estate, which also harm animals---a classic ◊i{substitution effect}.
+As an illustrative case study,
+let us 
+examine a simple veganism that treats all animals equally.
+Many vegans do weight animals;
+but this approach is an instructive starting point and avoids 
+thorny metaphysical questions
+about ranking animal worth. 
+While the sheer numbers of birds, rodents, and insects
+killed indirectly in human activity might seem to make the task daunting,
+it is still possible to show that
+animal husbandry causes more harm than plants.
+The reason is trophic efficiencies: raising cattle requires
+growing an order of magnitude more plants for feed than 
+if we eat the plants
+directly. 
+Farming already kills many animals indirectly,
+but husbandry would multiply those harms tenfold.
+A herbivore society would
+thus kill far fewer animals to eat.
 
-Meanwhile, alternative approaches in veganism that do try to weight animal worth
-risk becoming intractable.
+But while this rescues the argument, it does so by making veganism itself
+less distinct. The difference between husbandry and plant agriculture
+collapses into one of resource throughput: more land, more pesticides,
+more crops.
+But veganism is primarily distinguished
+from asceticism by ◊i{how} you consume, not ◊i{how much}.
+A vegan who consumes less in food resources may well
+shift their consumption elsewhere. 
+Given the many indirect sources of harm,
+other activities like air travel or real estate are not obviously
+lesser than eating meat if total demand doesn't change.
+The trophic argument is thus insufficient by itself
+without being able to count and weigh any unique harms from husbandry.
+
+We can see that even a simple approach to animal worth
+has to reckon with the pervasiveness of 
+animal suffering across industries.
+A broad measure of consumption can track these harms 
+because resource use generally correlates
+with animal harm. Unlike with veganism, which focuses on the
+final product, resource use is captured in a good's price at all
+stages of production.
+Focusing on husbandry as a proxy for harm is like fighting
+climate change through appliance bans rather than a general carbon price.
+The point is not that the proxy has flaws, but that
+harm can flow around simple category prohibitions.
+
+As soon as you try to move beyond strict animal equivalence, you run
+into the difficult problem of trying to weight animal worth.
+Deciding the criteria alone is fraught, as even small creatures
+like mice are surprisingly intelligent.
+Even beyond these axiomatic problems, the logistics of
+specifying such a moral economy is daunting. Yet it is inescapable:
+once you admit gradations in animal worth, you must create a moral
+economy, even if it isn't literally done with a spreadsheet and calculator.
+
 Such a task would require valuing every animal life in some common unit of account,
-and then determining the ◊i{social cost} of that basic unit in dollars.
+and then determining the ◊i{social cost} of that basic unit relative to
+our needs.
 This would not only be highly subjective;
 it would be mathematically chaotic, with the results being highly sensitive
 to the underlying assumptions.
 Agreeing on any such framework would be impossible without some amount of 
-hindsight fudging. 
-Assessing a ◊i{social cost of carbon} in climate economics is already fraught,
-but this would be far worse, 
-sprawling out 
-into an entire command economy of moral pricing. 
+hindsight fudging. This makes such a project more difficult for
+practical use, as it can too easily collapse into circularity when
+used less artfully.
 
-We can see that veganism stumbles as a heuristic due to its arbitrary
-pricing of harm, while any finer-tuned system becomes untenable.
-Neither solution appears to be a better heuristic of animal harm than 
-a general measure of consumption. 
-While imperfect, aggregate consumption is non-distorting, broad-based,
-and easy to measure.
-Reducing consumption
-would naturally push people towards activities that use fewer resources,
-making it a surprisingly practical---if imperfect---guide to reducing overall harm.
-Veganism, meanwhile, is more focused on
-an intuitive moral hygiene than mathematical rigour.
+Assessing a ◊i{social cost of carbon} in climate economics is already fraught,
+but this would even harder, 
+sprawling out 
+into an entire command economy of moral pricing; it is almost akin to transporting Hayek's 
+knowledge problem to the metaphysical realm.
+It also leads to systems that scarcely resemble
+veganism as most people conceive of it, with veganism's admirable
+simplicity replaced by something much more diffuse.
+It becomes a more general, multifactorial approach of which consumption
+is already a significant part, implicitly or not.
+And such a system must then reckon with real harms caused
+in plant agriculture, too, whether oil palms or almond farming.
+
+Veganism thus presents us with a trilemma.
+The snappiest forms that focus on direct animal consumption are
+too rigid to work as a utilitarian or consequentialist heuristic.
+But trying to account for indirect harms raises the thorny
+question of how to weight them: the most elegant approach that
+pronounces all animals equal is then submerged by the great numbers
+killed in all walks of life. But approaches that
+try to precisely weight animals either become very complex, or end up
+resembling more general resource ethics systems, at which point
+the explicit focus on animals becomes more vestigial.
+
+As an intuitive moral hygiene or personal ethic, veganism
+can be admirable, especially if it fosters stewardship and
+mindfulness of overconsumption. But it also sits alongside
+other methods, such as ascetic approaches that
+focus on reducing consumption, or the ethical traditions
+in many religious frameworks. 
+There are points to admire about the various strands of veganism,
+but each has its own tradeoffs, marking each as one valid
+option among many in an age-old debate.
 
 ◊h2{Animal rights and political economy}
 
@@ -171,13 +262,13 @@ wrote in a flash of realist insight,
 It is created by men not to bring heaven to Earth, but to allow them to live
 together while negotiating their differences.
 
-
-Whatever the moral or metaphysical justifications people give for individual 
-human rights, the reality is much simpler. In self-government, society is most 
-stable when each person within it feels safe. The most robust way of achieving 
+Though there are many moral and metaphysical justifications for individual 
+human rights, the strongest case for them is ultimately practical. 
+In self-government, society is most 
+stable when each person within it feels safe. The simplest way of achieving 
 this is through reciprocity: I agree to respect other people's dignity so that 
 my own dignity will be respected. If I start to trample on other people's 
-dignity, I am essentially making a bet that I am stronger than the collective 
+dignity, I am essentially betting that I am stronger than the collective 
 ire of every other person in society—a risky gamble. 
 
 The benefit of such a system is that it is predictable, since punishment emerges
@@ -196,9 +287,16 @@ something happens to me. I respect the sick, and the dying, and the unconscious,
 for the same reason. Importantly, this is equally true of a man who is sick
 with an illness I can never have; interchangeability does not require perfect
 equality, but an ◊i{equality of vulnerability}.
-That makes it much stronger and more scalable to a diverse society than
+
+This makes interchangeability much stronger and more scalable to a diverse society than
 reciprocity alone.
-◊;{That is what allows it to generalize to all of us, regardless of our differences.}
+It generalizes base reciprocity in a way that avoids the pitfalls of
+a harder realism that sees society as a kind of mutual disarmament.
+It has echoes in Smith's ◊i{Theory of Moral Sentiments}, in which
+our moral horizons are defined by our ability to imagine ourselves
+in the place of other human beings. It transfers this moral
+sympathy to the political realm, creating something that feels both
+humane yet durable in its mutual benefit.
 
 The case of children is illustrative: having become an adult, I cannot become a child
 once more---but I can become a parent.
@@ -210,11 +308,21 @@ if you let me do the same}.
 This approach reflects both the unique burden borne by every parent
 and the need to avoid top-down
 impositions that turn differences of opinion or culture into conflict.
-But even so, we still guarantee children a baseline of rights as human beings.
-For weakening the dignity of human life, however young or old, has a chilling
-effect on all of us.
+Yet we still guarantee children a baseline of rights as human beings.
+For weakening the interchangeable dignity of human life, however young or old,
+puts us all at risk.
 
-We can see that individual human rights are not a moral nicety imported into
+This example neatly shows the interplay between layers of reciprocity
+and interchangeability. Reciprocity alone would reduce the family
+to a patriarchal fiefdom, recreating the Roman ◊i{paterfamilias}, even if
+it allowed the family to sell or abandon their children. But interchangeability alone
+would risk sliding into managerial statism, ignoring the need for
+diversity within plural societies. And it also ignores the fact that parenthood
+itself is an interchangeable role. Reciprocity is needed to allow pluralism 
+to thrive. But interchangeability
+is vital to provide a floor of human dignity that benefits everyone.
+
+We can therefore see that individual human rights are not a moral nicety imported into
 our system of government. They ◊em{are} the system. Whenever we add extra
 conditions to our legal foundations, such as giving a legal personhood to
 animals or nature, we burden these institutions with extra constraints not
@@ -235,19 +343,21 @@ The critics saw within slavery a reflection of their own human frailty;
 race was merely a fig leaf for a deeper ill.
 
 
-Even aside from this, a framework of personhood is ill-fitting for animals, because
-there are too many cases where we need to treat animals collectively rather than
-individually. Think of feral animals that endanger birds, or invasive species that
-threaten ecosystems. We may need to cull animals to preserve the whole, which is 
-incompatible with an individual view of animal rights. This need to sometimes
-view animals as collectively valuable clashes with personhood in a way that
-no other expansion of the category ever did. It raises serious questions about whether
-such an expansion is the right approach.
+Even aside from this, a framework of personhood is ill-fitting for animals, 
+because there are too many cases where we need to treat animals collectively 
+rather than individually. Think of feral animals that endanger birds, or 
+invasive species that threaten ecosystems. We may need to cull animals 
+to preserve the whole, which is incompatible with an individual view of 
+animal rights. This need to sometimes view animals as collectively valuable 
+clashes with personhood in a way that other expansions of the category 
+did not. Asserting that animals hold individual rights while allowing
+population-level engineering may weaken the rights framework as a
+bulwark of interchangeable dignity.
 
-This doesn't mean that laws protecting animals cannot exist, although calling
+This doesn't mean that welfare laws protecting animals cannot exist, although calling
 them ◊i{animal rights} distorts their intrinsically human nature. The most
-defensible laws are framed as constraints on human behaviour that seek to
-minimize gratuitous violence while avoiding burdensome costs, rather than
+defensible laws are framed as constraints on human behaviour that 
+curb gratuitous violence while avoiding burdensome costs, rather than
 creating a legal fiction of animals as plaintiffs. Such fictions too often
 lapse into moral ventriloquism, giving power not to animals but to those who
 affect to speak for them. The resulting fog risks breeding cynicism—the idea
@@ -282,8 +392,8 @@ Human societies have developed a diverse set of moral rules and customs
 that help us cope with the tragic nature of life and death that animates
 this world. Veganism and animal rights follow in this approach; they do
 not sit apart from them, nor are they intrinsically better than their
-venerable peers. The best approach then is to avoid absolutist, moralizing claims about
-animal rights. It is one of man's oldest debates; that it has festered
+venerable peers. The best approach then is to avoid absolutist  claims about
+animal ethics. It is one of man's oldest debates; that it has festered
 unresolved for so long suggests that there is no obvious answer to it.
 
 Grounded in pluralism and mutual respect, we can then try to find

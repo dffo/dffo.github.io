@@ -80,7 +80,7 @@ it takes on a new life: growing, evolving, and yielding children
 
 
 We can see that the roots of identity lie in ◊i{self-reference} and
-◊i{relation}: to identify what one is doing (speaking a distinct language),
+◊i{relation}: to identify what you are doing (speaking a distinct language),
 and then relate that to how other people behave around you 
 (fellow speakers versus foreigners).
 But this process where acts crystallize
@@ -659,7 +659,7 @@ In the experiential mode, the first source of identity is
 interface, anchored in the ability to perform. The interior
 state is downstream of this, enriched by the range of experiences
 enabled by one's abilities. Validation is knowing others can
-rely on your or collaborate with you given your current capabilities.
+rely on you or collaborate with you given your current capabilities.
 Rejection can still hurt,
 but it is not destabilizing in the same way.
 
@@ -823,8 +823,8 @@ also liberating: identities are meant to serve us. We choose to use them
 because they make our lives better.
 
 The reason that identity has become such a fountain of conflict
-is that it is used to compress 1) the world around us, 2) other people,
-and 3) our own sense of self into a single word. It is a shorthand that allows
+is that it is used to compress 1. the world around us, 2. other people,
+and 3. our own sense of self into a single word. It is a shorthand that allows
 us to seek out new experiences by finding people who are able to bring them
 to us. It allows us to quickly assess others as peers, mentors,
 friends, and strangers. And it allows

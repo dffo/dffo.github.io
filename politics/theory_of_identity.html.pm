@@ -25,7 +25,7 @@ belongs to a given identity, even for identities where the stakes
 seem low?
 These are the questions this inquiry seeks to answer, surveying
 identity in all its forms; sparing neither high-brow nor low-brow,
-lighthearted or solemn.
+lighthearted nor solemn.
 
 We first explore what identity is, before discussing
 how it emerges from self-reference and relation, using ◊i{linguistic

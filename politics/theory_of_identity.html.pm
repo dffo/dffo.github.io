@@ -728,8 +728,8 @@ is more a synchronic attempt to understand the internal logic of
 identity as used by those with a highly developed narrative view.
 Such a view elevates identity to a higher level of abstraction.
 Earlier we examined three stages of identity formation in the
-sentences 1) ◊i{I am cooking}, 2) ◊i{I cook}, and 3) ◊i{I am a cook}. But a highly developed
-narrative mode yields a fourth sentence: 4) ◊i{I identify as a cook}.
+sentences 1. ◊i{I am cooking}, 2. ◊i{I cook}, and 3. ◊i{I am a cook}. But a highly developed
+narrative mode yields a fourth sentence: 4. ◊i{I identify as a cook}.
 
 Think about what that sentence implies. It does not say anything about what
 one is doing, or what one ◊em{can} do. It is rather a pure assertion of interior
@@ -864,8 +864,4 @@ Both the narrative and experiential mode clearly have use.
 But it is important to remember that identities are downstream of
 who we are, and thus to avoid placing them above ourselves.
 ◊end-mark{}
-
-
-
-
 

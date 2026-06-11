@@ -169,9 +169,9 @@ jam with, or a cook who seeks out others to share recipes.
 Someone born and raised in Italy might call himself ◊i{Italian}
 so that new acquaintances know his native language, music, and cuisine,
 while a ◊i{video-gamer} might use the term to seek out competitors.
-Such people do not lack identity, but keep it downstream of their
-inner selves. 
-It is simply a means to efficiently seek out new experiences.
+Such people do not lack identity, but cultivate it from their skills,
+affordances, and wants.
+It becomes a way for them to efficiently seek out new experiences.
 
 This often lowers the stakes around identity.
 For example, the gamer in our example would probably not be offended

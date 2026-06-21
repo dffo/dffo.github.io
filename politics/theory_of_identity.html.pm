@@ -24,7 +24,7 @@ such meaning within them? And why do people fight so fiercely over who
 belongs to a given identity, even for identities where the stakes
 seem low?
 These are the questions this inquiry seeks to answer, surveying
-identity in all its forms; sparing neither high-brow nor low-brow,
+identity in all its forms; sparing neither highbrow nor lowbrow,
 lighthearted nor solemn.
 
 We first explore what identity is, before discussing
@@ -150,37 +150,27 @@ And speakers of a language can standardize its spelling and vocabulary
 
 But even once an identity forms, it is often experienced very differently
 from person to person. This is because of identity's dual roles as
-both a shorthand that allows for social legibility and as a role that
-allows people to situate themselves in their own internal narrative.
-Those who value identity for the former use tend to see it more pragmatically
-and instrumentally, while those who value it for the latter often see it
-as an emotional and epistemic bulwark.
+both a shorthand that allows for social legibility and as a way for
+people to place themselves within their own personal stories.
+Which role someone prioritizes can greatly shape the way they engage with
+and derive meaning from their identities.
 I refer to these two approaches as the ◊i{experiential} and
 ◊i{narrative} modes of identity.
 Their differences show why many conflicts over identity occur, even though
 most people mix the two approaches across their many identities.
 
 When identity operates in the experiential mode, 
-it is often seen as a tool---a useful means of condensing
+the label itself is seen as a tool---a means of condensing
 abilities and interests into a single, widely recognized word.
-In that sense, identity is descriptive and pragmatic. Think
-of the musician who so describes himself to find others to
+What exactly one calls it is largely pragmatic.
+Think of the musician who so describes himself to find others to
 jam with, or a cook who seeks out others to share recipes.
 Someone born and raised in Italy might call himself ◊i{Italian}
 so that new acquaintances know his native language, music, and cuisine,
 while a ◊i{video-gamer} might use the term to seek out competitors.
-Such people do not lack identity, but cultivate it from their skills,
-affordances, and wants.
-It becomes a way for them to efficiently seek out new experiences.
+Such people don't lack identity. Indeed, the range of experiences it enables
+can be deeply meaningful; but those experiences are where its value ultimately lies.
 
-This often lowers the stakes around identity.
-For example, the gamer in our example would probably not be offended
-if someone accused him of ◊i{not being a gamer}, as his ultimate
-goal is to find others to play with. If the term is too vague,
-he might use a more specific one, such as ◊i{mobile gamer}, but
-it would not hurt him. And if a man raised in Italy
-and steeped in its culture was accused of
-not being Italian, he would likely be more confused than angry.
 
 This is different from when identity operates in a 
 narrative mode, where identity becomes a source of personal meaning.
@@ -198,7 +188,18 @@ if his identity is questioned due to his taste in games.
 And there might be a mix: an Italian gamer who uses ◊i{Italian}
 narratively but ◊i{gamer} experientially.
 
-
+The experiential mode can often appear to have lower stakes around identity.
+For example, the experiential gamer in our example would probably not be offended
+if someone accused him of ◊i{not being a gamer}, as his ultimate
+goal is to find others to play with. If the term is too vague,
+he might use a more specific one, such as ◊i{mobile gamer}, but
+it would not hurt him.
+And if an Italian man who used the term experientially
+was accused of
+not being Italian, he would likely be more confused than angry.
+But the experiential--narrative distinction is not merely
+one of pragmatism versus romanticism. Both modes can be emotionally deep.
+One draws meaning from experience, the other from belonging.
 
 ◊h2{The three-point framework}
 
@@ -476,7 +477,7 @@ Even if our Mexican restaurant is perfectly authentic in
 technique, some may object to the perceived injustice in a socially
 advantaged ethnic group profiting from the cultural
 exports of a minority group. In this case, identity groups are
-seeking to control who can extract rents from 
+seeking to control who can extract rents
 from their cultural practices, even if outsiders can do so
 at a high quality. While concerns around technique and
 authenticity are common in an experiential mode that

@@ -159,34 +159,25 @@ I refer to these two approaches as the ◊i{experiential} and
 Their differences show why many conflicts over identity occur, even though
 most people mix the two approaches across their many identities.
 
-When identity operates in the experiential mode, 
-the label itself is seen as a tool---a means of condensing
-abilities and interests into a single, widely recognized word.
-What exactly one calls it is largely pragmatic.
-Think of the musician who so describes himself to find others to
-jam with, or a cook who seeks out others to share recipes.
-Someone born and raised in Italy might call himself ◊i{Italian}
-so that new acquaintances know his native language, music, and cuisine,
-while a ◊i{video-gamer} might use the term to seek out competitors.
-Such people don't lack identity. Indeed, the range of experiences it enables
-can be deeply meaningful; but those experiences are where its value ultimately lies.
+When identity operates in the ◊i{experiential mode}, the label itself is seen as
+a tool---a means of condensing abilities and interests into a single, widely
+recognized word. What exactly one calls it is largely pragmatic. Think of the
+musician who so describes himself to find others to jam with, or a cook who
+seeks out others to share recipes. Someone born and raised in Italy might call
+himself ◊i{Italian} so that new acquaintances know his native language, music,
+and cuisine, while a ◊i{video-gamer} might use the term to seek out competitors.
+Such people don't lack identity. Indeed, the range of experiences it enables can
+be deeply meaningful; but those experiences are where its value ultimately lies.
 
-
-This is different from when identity operates in a 
-narrative mode, where identity becomes a source of personal meaning.
-In this mode, people are likelier to be hurt by such accusations, and
-to call out those who gatekeep claims to identity.
-For example, many Italians see
-◊i{Italianness} as an important part of how they perceive
-themselves, both in
-Italy and in the diaspora. 
-They are more likely to craft
-shibboleths about what ◊i{true Italians} do or like,
-and bristle at accusations of falling short.
-Similarly, a gamer in the narrative mode might bristle
-if his identity is questioned due to his taste in games.
-And there might be a mix: an Italian gamer who uses ◊i{Italian}
-narratively but ◊i{gamer} experientially.
+This is different from when identity operates in the ◊i{narrative mode}, where
+membership in an identity itself becomes a source of personal meaning. For
+example, many Italians see ◊i{Italianness} as an important part of how they
+perceive themselves, both in Italy and in the diaspora. They are more likely to
+craft shibboleths about what ◊i{true Italians} do or like, and bristle at
+accusations of falling short. Similarly, a gamer in the narrative mode might
+bristle if his identity is questioned due to his taste in games. And there might
+be a mix: an Italian gamer who uses ◊i{Italian} narratively but ◊i{gamer}
+experientially.
 
 The experiential mode can often appear to have lower stakes around identity.
 For example, the experiential gamer in our example would probably not be offended

@@ -5,15 +5,14 @@
 "An inquiry into how identities form, enrich our lives, and cause conflict" #:big? #f)
 ◊(print-date)
 
-◊initial-cap{There has perhaps} never been a force as powerful yet
-ephemeral as ◊i{identity}. It spans an enormous range; from the playful,
-like sports, film franchises, and fandoms, to the grave, like language,
-race, gender, and nationhood. As modern politics has become increasingly
-organized around identity, we have increasingly seen how layered people's
-identities are, and how deeply it shapes their self-conception.
-Yet just as strikingly, there are many people who do not seem to view
-identity so personally, even when they are no less passionate about
-their interests and background.
+◊initial-cap{There has perhaps} never been a force as powerful yet intangible as
+◊i{identity}. It spans an enormous range; from the playful, like sports, film
+franchises, and fandoms, to the grave, like language, race, gender, and
+nationhood. As modern politics has become ever more divided around identity, it
+has laid bare just how layered people's identities are, and just how deeply
+they shape the stories people tell about themselves. Yet just as
+strikingly, there are many who do not seem to view identity so personally, even
+when they are no less passionate about their interests and background.
 
 Understanding identity means navigating these seeming contradictions.
 Why does it form around the distinctions that it does? How do some
